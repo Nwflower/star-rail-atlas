@@ -4,6 +4,8 @@ on:
     push:
       branches: [ master ]
 
+    workflow_dispatch:
+
 jobs:
   update:
     name: Update File Index
@@ -15,11 +17,12 @@ jobs:
       - name: Setup python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.9
+          python-version: "3.10"
 
       - name: Run python script
         run: |
           cd .github
+          python -m pip install imagesize
           python update_index.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -29,3 +32,4 @@ jobs:
           message: ':wrench: 自动更新文件索引'
           add: |
             'path.json'
+            'files.json'
