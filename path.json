@@ -62,6 +62,7 @@
     "guide for role": {
         "三月七": "/guide for role/三月七.png",
         "丹恒": "/guide for role/丹恒.png",
+<<<<<<< HEAD
         "丹恒•饮月": "/guide for role/丹恒•饮月.png",
         "佩拉": "/guide for role/佩拉.png",
         "停云": "/guide for role/停云.png",
@@ -72,6 +73,15 @@
         "姬子": "/guide for role/姬子.png",
         "娜塔莎": "/guide for role/娜塔莎.png",
         "布洛妮娅": "/guide for role/布洛妮娅.png",
+=======
+        "物理开拓者": "/guide for role/物理开拓者.png",
+        "银狼": "/guide for role/银狼.png",
+        "素裳": "/guide for role/素裳.png",
+        "青雀": "/guide for role/青雀.png",
+        "寒鸦": "/guide for role/寒鸦.png",
+        "罗刹": "/guide for role/罗刹.png",
+        "希露瓦": "/guide for role/希露瓦.png",
+>>>>>>> c54aff1eb7cff9c07da16a6c8a0273b59d81fbdc
         "希儿": "/guide for role/希儿.png",
         "希露瓦": "/guide for role/希露瓦.png",
         "彦卿": "/guide for role/彦卿.png",
@@ -86,8 +96,26 @@
         "瓦尔特": "/guide for role/瓦尔特.png",
         "白露": "/guide for role/白露.png",
         "符玄": "/guide for role/符玄.png",
+<<<<<<< HEAD
         "素裳": "/guide for role/素裳.png",
         "罗刹": "/guide for role/罗刹.png",
+=======
+        "虎克": "/guide for role/虎克.png",
+        "杰帕德": "/guide for role/杰帕德.png",
+        "姬子": "/guide for role/姬子.png",
+        "桂乃芬": "/guide for role/桂乃芬.png",
+        "三月七": "/guide for role/三月七.png",
+        "佩拉": "/guide for role/佩拉.png",
+        "克拉拉": "/guide for role/克拉拉.png",
+        "桑博": "/guide for role/桑博.png",
+        "火开拓者": "/guide for role/火开拓者.png",
+        "丹恒•饮月": "/guide for role/丹恒•饮月.png",
+        "藿藿": "/guide for role/藿藿.png",
+        "娜塔莎": "/guide for role/娜塔莎.png",
+        "银枝": "/guide for role/银枝.png",
+        "景元": "/guide for role/景元.png",
+        "彦卿": "/guide for role/彦卿.png",
+>>>>>>> c54aff1eb7cff9c07da16a6c8a0273b59d81fbdc
         "艾丝妲": "/guide for role/艾丝妲.png",
         "藿藿": "/guide for role/藿藿.png",
         "虎克": "/guide for role/虎克.png",
@@ -99,8 +127,24 @@
         "黑塔": "/guide for role/黑塔.png"
     },
     "lightcone": {
+<<<<<<< HEAD
         "「我」的诞生": "/lightcone/「我」的诞生.png",
         "一场术后对话": "/lightcone/一场术后对话.png",
+=======
+        "无可取代的东西": "/lightcone/无可取代的东西.png",
+        "暖夜不会漫长": "/lightcone/暖夜不会漫长.png",
+        "幽邃": "/lightcone/幽邃.png",
+        "决心如汗珠般闪耀": "/lightcone/决心如汗珠般闪耀.png",
+        "智库": "/lightcone/智库.png",
+        "天倾": "/lightcone/天倾.png",
+        "片刻，留在眼底": "/lightcone/片刻，留在眼底.png",
+        "同一种心情": "/lightcone/同一种心情.png",
+        "鼹鼠党欢迎你": "/lightcone/鼹鼠党欢迎你.png",
+        "朗道的选择": "/lightcone/朗道的选择.png",
+        "到不了的彼岸": "/lightcone/到不了的彼岸.png",
+        "舞！舞！舞！": "/lightcone/舞！舞！舞！.png",
+        "物穰": "/lightcone/物穰.png",
+>>>>>>> c54aff1eb7cff9c07da16a6c8a0273b59d81fbdc
         "与行星相会": "/lightcone/与行星相会.png",
         "乐圮": "/lightcone/乐圮.png",
         "于夜色中": "/lightcone/于夜色中.png",
