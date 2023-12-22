@@ -7,7 +7,7 @@ from datetime import datetime
 
 main_path = Path(__file__).parent.parent  # 项目根目录
 
-exclude_file = ['LICENSE', 'README.md']  # 排除的文件列表
+exclude_file = ['LICENSE', 'README.md', 'othername.json']  # 排除的文件列表
 exclude_dir = ['index', 'othername']  # 排除的文件夹列表
 
 
