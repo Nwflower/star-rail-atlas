@@ -52,6 +52,7 @@
         "1315": "/role/1315.png"
     },
     "lightcone": {
+        "21043": "/lightcone/21043.png",
         "21017": "/lightcone/21017.png",
         "21032": "/lightcone/21032.png",
         "20002": "/lightcone/20002.png",
@@ -63,6 +64,7 @@
         "24001": "/lightcone/24001.png",
         "21008": "/lightcone/21008.png",
         "21037": "/lightcone/21037.png",
+        "23023": "/lightcone/23023.png",
         "23012": "/lightcone/23012.png",
         "23002": "/lightcone/23002.png",
         "23004": "/lightcone/23004.png",
@@ -187,6 +189,7 @@
         "8001": "/guide for role/8001.png",
         "1101": "/guide for role/1101.png",
         "8003": "/guide for role/8003.png",
+        "1304": "/guide for role/1304.png",
         "1003": "/guide for role/1003.png",
         "1112": "/guide for role/1112.png",
         "1207": "/guide for role/1207.png",
