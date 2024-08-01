@@ -1,709 +1,5 @@
 {
-    "role": {
-        "1306": {
-            "path": "/role/1306.png",
-            "hash": "acdbb26f2201d0530759a6afb1237a94",
-            "ext": "png",
-            "width": 1920,
-            "height": 2163,
-            "size": 685631,
-            "update": "2024-07-14 18:10:01"
-        },
-        "8001": {
-            "path": "/role/8001.png",
-            "hash": "f6fa5c0371872d14dc055764ec5f4c73",
-            "ext": "png",
-            "width": 1920,
-            "height": 2170,
-            "size": 635569,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1201": {
-            "path": "/role/1201.png",
-            "hash": "b1c316644ee618e64c8226a2223d582a",
-            "ext": "png",
-            "width": 1920,
-            "height": 2365,
-            "size": 678876,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1309": {
-            "path": "/role/1309.png",
-            "hash": "6f8dd0cc08fddb28ab1f0c6a9e8e81f5",
-            "ext": "png",
-            "width": 1920,
-            "height": 2456,
-            "size": 649049,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1307": {
-            "path": "/role/1307.png",
-            "hash": "04e1fd5e7ea327a6a5254de3b8eb0c13",
-            "ext": "png",
-            "width": 1920,
-            "height": 3313,
-            "size": 855114,
-            "update": "2024-07-14 18:10:01"
-        },
-        "8005": {
-            "path": "/role/8005.png",
-            "hash": "6036d4dca5ab2adb4f80f2a709ed07b9",
-            "ext": "png",
-            "width": 1920,
-            "height": 2100,
-            "size": 591507,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1207": {
-            "path": "/role/1207.png",
-            "hash": "c90032aaae890be520d822d1b1967be8",
-            "ext": "png",
-            "width": 1920,
-            "height": 2229,
-            "size": 673334,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1213": {
-            "path": "/role/1213.png",
-            "hash": "b47d4404c1e4fb5b50f58775c2d3ce62",
-            "ext": "png",
-            "width": 1920,
-            "height": 3140,
-            "size": 766603,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1008": {
-            "path": "/role/1008.png",
-            "hash": "782dfffcb951723df7a4bc8c86e86649",
-            "ext": "png",
-            "width": 1920,
-            "height": 2138,
-            "size": 616458,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1108": {
-            "path": "/role/1108.png",
-            "hash": "059d98eb4ea77995761794adbf94d5a7",
-            "ext": "png",
-            "width": 1920,
-            "height": 2173,
-            "size": 662468,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1112": {
-            "path": "/role/1112.png",
-            "hash": "0d6dc39fae224eba8d698ef2df441c89",
-            "ext": "png",
-            "width": 1920,
-            "height": 2884,
-            "size": 725579,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1210": {
-            "path": "/role/1210.png",
-            "hash": "5d7c2f9d00d7009c20bcf895f65df4d1",
-            "ext": "png",
-            "width": 1920,
-            "height": 2260,
-            "size": 640505,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1214": {
-            "path": "/role/1214.png",
-            "hash": "8459f00f0d106519744a1b39075fccfd",
-            "ext": "png",
-            "width": 1920,
-            "height": 2406,
-            "size": 672381,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1105": {
-            "path": "/role/1105.png",
-            "hash": "6eaa7ff041a6b716f24f703a22f4216a",
-            "ext": "png",
-            "width": 1920,
-            "height": 2160,
-            "size": 673009,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1103": {
-            "path": "/role/1103.png",
-            "hash": "8096cb751d165b1d0acd6507a3e05254",
-            "ext": "png",
-            "width": 1920,
-            "height": 2241,
-            "size": 714117,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1314": {
-            "path": "/role/1314.png",
-            "hash": "76e367976ddd83cdb350d4267ba4bba1",
-            "ext": "png",
-            "width": 1920,
-            "height": 2782,
-            "size": 713881,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1006": {
-            "path": "/role/1006.png",
-            "hash": "75e558789dd004bc58e957023a273688",
-            "ext": "png",
-            "width": 1920,
-            "height": 2590,
-            "size": 697638,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1206": {
-            "path": "/role/1206.png",
-            "hash": "62d7e4497d6edc6e56563c740fea2213",
-            "ext": "png",
-            "width": 1920,
-            "height": 2234,
-            "size": 664198,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1109": {
-            "path": "/role/1109.png",
-            "hash": "5762709b0af16b83ba73f6d2df917313",
-            "ext": "png",
-            "width": 1920,
-            "height": 2590,
-            "size": 700604,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1104": {
-            "path": "/role/1104.png",
-            "hash": "7ef09cabf8b46510e388d7ecea5fc4b1",
-            "ext": "png",
-            "width": 1920,
-            "height": 2160,
-            "size": 616793,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1315": {
-            "path": "/role/1315.png",
-            "hash": "858e3a620bb55400024251d55caf3205",
-            "ext": "png",
-            "width": 1920,
-            "height": 2890,
-            "size": 812291,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1211": {
-            "path": "/role/1211.png",
-            "hash": "23e963f172c86c84e599a58e0ab048b6",
-            "ext": "png",
-            "width": 1920,
-            "height": 2241,
-            "size": 690780,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1302": {
-            "path": "/role/1302.png",
-            "hash": "54215545546a2b26574d6e4b195615ec",
-            "ext": "png",
-            "width": 1920,
-            "height": 2234,
-            "size": 665915,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1303": {
-            "path": "/role/1303.png",
-            "hash": "c7dab979ba51727f4df5cf15f963c8c5",
-            "ext": "png",
-            "width": 1920,
-            "height": 2838,
-            "size": 756772,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1209": {
-            "path": "/role/1209.png",
-            "hash": "345c175ae1f39aab863c71b24cfa49ee",
-            "ext": "png",
-            "width": 1920,
-            "height": 2368,
-            "size": 708431,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1106": {
-            "path": "/role/1106.png",
-            "hash": "d3b0374d4c6fc9abc6883a82c1e28445",
-            "ext": "png",
-            "width": 1920,
-            "height": 2084,
-            "size": 662883,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1013": {
-            "path": "/role/1013.png",
-            "hash": "80fcec6ae0cd82f723d715d60be057cb",
-            "ext": "png",
-            "width": 1920,
-            "height": 1945,
-            "size": 591613,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1111": {
-            "path": "/role/1111.png",
-            "hash": "93d351afa9520f7efb30f66bda8caf9f",
-            "ext": "png",
-            "width": 1920,
-            "height": 2600,
-            "size": 726069,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1001": {
-            "path": "/role/1001.png",
-            "hash": "e3b8aaec3525e2e1d9dca7c93644c11b",
-            "ext": "png",
-            "width": 1920,
-            "height": 2331,
-            "size": 624362,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1107": {
-            "path": "/role/1107.png",
-            "hash": "a1dec271a8eb10103a471a1b97f7ca78",
-            "ext": "png",
-            "width": 1920,
-            "height": 2220,
-            "size": 685098,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1312": {
-            "path": "/role/1312.png",
-            "hash": "cd3b86c214789590eebb6cebd3ca1649",
-            "ext": "png",
-            "width": 1920,
-            "height": 2500,
-            "size": 701417,
-            "update": "2024-07-14 18:10:01"
-        },
-        "8003": {
-            "path": "/role/8003.png",
-            "hash": "ab6c19df9c1ab25e9fe00dd52236e56b",
-            "ext": "png",
-            "width": 1920,
-            "height": 2500,
-            "size": 722522,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1110": {
-            "path": "/role/1110.png",
-            "hash": "9f21f07d50022fea9a60012d99c16aff",
-            "ext": "png",
-            "width": 1920,
-            "height": 2163,
-            "size": 589614,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1215": {
-            "path": "/role/1215.png",
-            "hash": "b55fde5cc0ecabe2e5033f33345abffc",
-            "ext": "png",
-            "width": 1920,
-            "height": 2127,
-            "size": 666251,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1009": {
-            "path": "/role/1009.png",
-            "hash": "9ee3d18d1ff70a4d7eea7174aaea8e9a",
-            "ext": "png",
-            "width": 1920,
-            "height": 2228,
-            "size": 656341,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1202": {
-            "path": "/role/1202.png",
-            "hash": "87a57aba203483c243c78457e626d159",
-            "ext": "png",
-            "width": 1920,
-            "height": 2115,
-            "size": 634115,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1217": {
-            "path": "/role/1217.png",
-            "hash": "16639dc177d5fabe342783b2ce4b642a",
-            "ext": "png",
-            "width": 1920,
-            "height": 2363,
-            "size": 663855,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1305": {
-            "path": "/role/1305.png",
-            "hash": "f76f2b59d7b19e393e79d2d204f01340",
-            "ext": "png",
-            "width": 1920,
-            "height": 2320,
-            "size": 680824,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1004": {
-            "path": "/role/1004.png",
-            "hash": "f762000dbe218aecf62048fcdd7cf656",
-            "ext": "png",
-            "width": 1920,
-            "height": 2229,
-            "size": 682036,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1102": {
-            "path": "/role/1102.png",
-            "hash": "e8ead791432bb4fd6cea3cea53518b96",
-            "ext": "png",
-            "width": 1920,
-            "height": 2060,
-            "size": 634995,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1101": {
-            "path": "/role/1101.png",
-            "hash": "3f2897690925b8e2cdd38384f2584919",
-            "ext": "png",
-            "width": 1920,
-            "height": 2068,
-            "size": 704919,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1304": {
-            "path": "/role/1304.png",
-            "hash": "c66d0dcf4afbf12bcd176280167eb4ad",
-            "ext": "png",
-            "width": 1920,
-            "height": 2839,
-            "size": 736694,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1203": {
-            "path": "/role/1203.png",
-            "hash": "be8232faf547050b2ec88b082d95a9e8",
-            "ext": "png",
-            "width": 1920,
-            "height": 2320,
-            "size": 707624,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1301": {
-            "path": "/role/1301.png",
-            "hash": "c1dfc9bd551b6b53eb5074bd12236dd2",
-            "ext": "png",
-            "width": 1920,
-            "height": 2220,
-            "size": 664614,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1205": {
-            "path": "/role/1205.png",
-            "hash": "8bbf461e9be9b28b0ce835e1ffdf346a",
-            "ext": "png",
-            "width": 1920,
-            "height": 3020,
-            "size": 739307,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1308": {
-            "path": "/role/1308.png",
-            "hash": "1715e13f20e4d551fd558083f3ace98e",
-            "ext": "png",
-            "width": 1920,
-            "height": 3396,
-            "size": 762656,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1002": {
-            "path": "/role/1002.png",
-            "hash": "3e12b557bcaf9bc0002d741fd2741f33",
-            "ext": "png",
-            "width": 1920,
-            "height": 2049,
-            "size": 621927,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1005": {
-            "path": "/role/1005.png",
-            "hash": "a893262a67ed04d3fc61389cc090fa01",
-            "ext": "png",
-            "width": 1920,
-            "height": 2391,
-            "size": 710739,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1208": {
-            "path": "/role/1208.png",
-            "hash": "7f7002938f43ebe80664c2a5a877e284",
-            "ext": "png",
-            "width": 1920,
-            "height": 2590,
-            "size": 748461,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1212": {
-            "path": "/role/1212.png",
-            "hash": "07c8bd0c9315b0467bcb0ad663fdf1ec",
-            "ext": "png",
-            "width": 1920,
-            "height": 2838,
-            "size": 740905,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1003": {
-            "path": "/role/1003.png",
-            "hash": "933c9b5d04a8ffe1673ec6bad6c6db0a",
-            "ext": "png",
-            "width": 1920,
-            "height": 2365,
-            "size": 689327,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1204": {
-            "path": "/role/1204.png",
-            "hash": "53332885def6a4b3513c47778e20713d",
-            "ext": "png",
-            "width": 1920,
-            "height": 2241,
-            "size": 718647,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1310": {
-            "path": "/role/1310.png",
-            "hash": "15f8cac15414d351757fa61c59e13ec6",
-            "ext": "png",
-            "width": 1920,
-            "height": 3420,
-            "size": 839021,
-            "update": "2024-07-14 18:10:01"
-        }
-    },
     "relic": {
-        "109": {
-            "path": "/relic/109.png",
-            "hash": "f71f6eb8fbc1d12ea5a901319a83086d",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 258234,
-            "update": "2024-07-14 18:10:01"
-        },
-        "309": {
-            "path": "/relic/309.png",
-            "hash": "9c1dffec468c60bd12fe284745df7ace",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 288270,
-            "update": "2024-07-14 18:10:01"
-        },
-        "104": {
-            "path": "/relic/104.png",
-            "hash": "fc47464804ef0823a2a6cba2769db0c7",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 249500,
-            "update": "2024-07-14 18:10:01"
-        },
-        "306": {
-            "path": "/relic/306.png",
-            "hash": "f2ac1cdf8a8a608be1fa705356115c8c",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 296318,
-            "update": "2024-07-14 18:10:01"
-        },
-        "313": {
-            "path": "/relic/313.png",
-            "hash": "e6e7e407df0eed78384bff6114248418",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 287414,
-            "update": "2024-07-14 18:10:01"
-        },
-        "108": {
-            "path": "/relic/108.png",
-            "hash": "08be9fb1ba3a961c8cba2a15bcfee385",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 245244,
-            "update": "2024-07-14 18:10:01"
-        },
-        "111": {
-            "path": "/relic/111.png",
-            "hash": "ae5499dd5fd96fb5b1192f60162c6694",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 242247,
-            "update": "2024-07-14 18:10:01"
-        },
-        "106": {
-            "path": "/relic/106.png",
-            "hash": "99a59c4d56f7c39a4377e61d5cae2e94",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 250352,
-            "update": "2024-07-14 18:10:01"
-        },
-        "314": {
-            "path": "/relic/314.png",
-            "hash": "e870aaf2e46ddac8bb8a5f6cdbcf3959",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 291282,
-            "update": "2024-07-14 18:10:01"
-        },
-        "302": {
-            "path": "/relic/302.png",
-            "hash": "92f19e2c6a1271b4b048059c82038042",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 311895,
-            "update": "2024-07-14 18:10:01"
-        },
-        "101": {
-            "path": "/relic/101.png",
-            "hash": "9414f1fa40532f4cf83763215a13531b",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 243650,
-            "update": "2024-07-14 18:10:01"
-        },
-        "308": {
-            "path": "/relic/308.png",
-            "hash": "48bd907c9e2efbf2e3a5d508b97440b1",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 278704,
-            "update": "2024-07-14 18:10:01"
-        },
-        "110": {
-            "path": "/relic/110.png",
-            "hash": "0b74d17c22d08f0ed94c7052341591f0",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 247032,
-            "update": "2024-07-14 18:10:01"
-        },
-        "315": {
-            "path": "/relic/315.png",
-            "hash": "0b7afa69239e44632689d485b5b7c65d",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 340483,
-            "update": "2024-07-14 18:10:01"
-        },
-        "120": {
-            "path": "/relic/120.png",
-            "hash": "cdbc650ce37ca384e4863d4e5d5b8b08",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 248656,
-            "update": "2024-07-14 18:10:01"
-        },
-        "311": {
-            "path": "/relic/311.png",
-            "hash": "779a5729ebf88ca69bda95aee634b35d",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 295454,
-            "update": "2024-07-14 18:10:01"
-        },
-        "112": {
-            "path": "/relic/112.png",
-            "hash": "6658b6e87ba6e42e61d52d7d3fbd6774",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 254693,
-            "update": "2024-07-14 18:10:01"
-        },
-        "107": {
-            "path": "/relic/107.png",
-            "hash": "8fcfc345fce97028f5ddde04ab911052",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 246018,
-            "update": "2024-07-14 18:10:01"
-        },
-        "103": {
-            "path": "/relic/103.png",
-            "hash": "a9b8f7853021934c47e41db67f1eb8ff",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 249485,
-            "update": "2024-07-14 18:10:01"
-        },
-        "304": {
-            "path": "/relic/304.png",
-            "hash": "8765da2daee06b35ec76b3cfdc5014ee",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 300429,
-            "update": "2024-07-14 18:10:01"
-        },
-        "310": {
-            "path": "/relic/310.png",
-            "hash": "2e42fbd98d4cc633f9bc064c7884a3ff",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 299175,
-            "update": "2024-07-14 18:10:01"
-        },
-        "102": {
-            "path": "/relic/102.png",
-            "hash": "ca11428f4452f3cfd90316de21034d98",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 241065,
-            "update": "2024-07-14 18:10:01"
-        },
-        "119": {
-            "path": "/relic/119.png",
-            "hash": "d078b267935873f3a99fc5411f7d44d7",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 262811,
-            "update": "2024-07-14 18:10:01"
-        },
-        "303": {
-            "path": "/relic/303.png",
-            "hash": "b916c78cfd4722d901bec49e027b0d17",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 273901,
-            "update": "2024-07-14 18:10:01"
-        },
-        "305": {
-            "path": "/relic/305.png",
-            "hash": "ba7a26d2351ca94b3d24a3a6e88eb437",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 285909,
-            "update": "2024-07-14 18:10:01"
-        },
         "113": {
             "path": "/relic/113.png",
             "hash": "7f95c9a79d0dcccb6705c4b9d717338b",
@@ -711,43 +7,7 @@
             "width": 2400,
             "height": 900,
             "size": 246546,
-            "update": "2024-07-14 18:10:01"
-        },
-        "116": {
-            "path": "/relic/116.png",
-            "hash": "00d20944e9a765ad4d8857e6a9101ab3",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 252303,
-            "update": "2024-07-14 18:10:01"
-        },
-        "307": {
-            "path": "/relic/307.png",
-            "hash": "1629f6dbf157be972b7e043f33b0e322",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 287801,
-            "update": "2024-07-14 18:10:01"
-        },
-        "118": {
-            "path": "/relic/118.png",
-            "hash": "d9aa5675d4451f9c827f6e5e928707d0",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 245423,
-            "update": "2024-07-14 18:10:01"
-        },
-        "115": {
-            "path": "/relic/115.png",
-            "hash": "e4f27f34671cb6ebcef5da105deb514b",
-            "ext": "png",
-            "width": 2400,
-            "height": 900,
-            "size": 255523,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
         "301": {
             "path": "/relic/301.png",
@@ -756,16 +16,97 @@
             "width": 2400,
             "height": 900,
             "size": 305737,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
-        "117": {
-            "path": "/relic/117.png",
-            "hash": "ac551e27e5a1fb4502a21ca60d29d034",
+        "313": {
+            "path": "/relic/313.png",
+            "hash": "e6e7e407df0eed78384bff6114248418",
             "ext": "png",
             "width": 2400,
             "height": 900,
-            "size": 265189,
-            "update": "2024-07-14 18:10:01"
+            "size": 287414,
+            "update": "2024-08-01 15:17:28"
+        },
+        "308": {
+            "path": "/relic/308.png",
+            "hash": "48bd907c9e2efbf2e3a5d508b97440b1",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 278704,
+            "update": "2024-08-01 15:17:28"
+        },
+        "307": {
+            "path": "/relic/307.png",
+            "hash": "1629f6dbf157be972b7e043f33b0e322",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 287801,
+            "update": "2024-08-01 15:17:28"
+        },
+        "314": {
+            "path": "/relic/314.png",
+            "hash": "e870aaf2e46ddac8bb8a5f6cdbcf3959",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 291282,
+            "update": "2024-08-01 15:17:28"
+        },
+        "302": {
+            "path": "/relic/302.png",
+            "hash": "92f19e2c6a1271b4b048059c82038042",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 311895,
+            "update": "2024-08-01 15:17:28"
+        },
+        "306": {
+            "path": "/relic/306.png",
+            "hash": "f2ac1cdf8a8a608be1fa705356115c8c",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 296318,
+            "update": "2024-08-01 15:17:28"
+        },
+        "311": {
+            "path": "/relic/311.png",
+            "hash": "779a5729ebf88ca69bda95aee634b35d",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 295454,
+            "update": "2024-08-01 15:17:28"
+        },
+        "110": {
+            "path": "/relic/110.png",
+            "hash": "0b74d17c22d08f0ed94c7052341591f0",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 247032,
+            "update": "2024-08-01 15:17:28"
+        },
+        "111": {
+            "path": "/relic/111.png",
+            "hash": "ae5499dd5fd96fb5b1192f60162c6694",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 242247,
+            "update": "2024-08-01 15:17:28"
+        },
+        "102": {
+            "path": "/relic/102.png",
+            "hash": "ca11428f4452f3cfd90316de21034d98",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 241065,
+            "update": "2024-08-01 15:17:28"
         },
         "105": {
             "path": "/relic/105.png",
@@ -774,16 +115,34 @@
             "width": 2400,
             "height": 900,
             "size": 248124,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
-        "316": {
-            "path": "/relic/316.png",
-            "hash": "c13798f9680ba56efd0e9a66c27680b8",
+        "104": {
+            "path": "/relic/104.png",
+            "hash": "fc47464804ef0823a2a6cba2769db0c7",
             "ext": "png",
             "width": 2400,
             "height": 900,
-            "size": 294871,
-            "update": "2024-07-14 18:10:01"
+            "size": 249500,
+            "update": "2024-08-01 15:17:28"
+        },
+        "106": {
+            "path": "/relic/106.png",
+            "hash": "99a59c4d56f7c39a4377e61d5cae2e94",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 250352,
+            "update": "2024-08-01 15:17:28"
+        },
+        "103": {
+            "path": "/relic/103.png",
+            "hash": "a9b8f7853021934c47e41db67f1eb8ff",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 249485,
+            "update": "2024-08-01 15:17:28"
         },
         "114": {
             "path": "/relic/114.png",
@@ -792,7 +151,70 @@
             "width": 2400,
             "height": 900,
             "size": 251700,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
+        },
+        "304": {
+            "path": "/relic/304.png",
+            "hash": "8765da2daee06b35ec76b3cfdc5014ee",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 300429,
+            "update": "2024-08-01 15:17:28"
+        },
+        "115": {
+            "path": "/relic/115.png",
+            "hash": "e4f27f34671cb6ebcef5da105deb514b",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 255523,
+            "update": "2024-08-01 15:17:28"
+        },
+        "316": {
+            "path": "/relic/316.png",
+            "hash": "c13798f9680ba56efd0e9a66c27680b8",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 294871,
+            "update": "2024-08-01 15:17:28"
+        },
+        "305": {
+            "path": "/relic/305.png",
+            "hash": "ba7a26d2351ca94b3d24a3a6e88eb437",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 285909,
+            "update": "2024-08-01 15:17:28"
+        },
+        "310": {
+            "path": "/relic/310.png",
+            "hash": "2e42fbd98d4cc633f9bc064c7884a3ff",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 299175,
+            "update": "2024-08-01 15:17:28"
+        },
+        "309": {
+            "path": "/relic/309.png",
+            "hash": "9c1dffec468c60bd12fe284745df7ace",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 288270,
+            "update": "2024-08-01 15:17:28"
+        },
+        "118": {
+            "path": "/relic/118.png",
+            "hash": "d9aa5675d4451f9c827f6e5e928707d0",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 245423,
+            "update": "2024-08-01 15:17:28"
         },
         "312": {
             "path": "/relic/312.png",
@@ -801,794 +223,596 @@
             "width": 2400,
             "height": 900,
             "size": 298762,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
+        },
+        "108": {
+            "path": "/relic/108.png",
+            "hash": "08be9fb1ba3a961c8cba2a15bcfee385",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 245244,
+            "update": "2024-08-01 15:17:28"
+        },
+        "109": {
+            "path": "/relic/109.png",
+            "hash": "f71f6eb8fbc1d12ea5a901319a83086d",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 258234,
+            "update": "2024-08-01 15:17:28"
+        },
+        "120": {
+            "path": "/relic/120.png",
+            "hash": "cdbc650ce37ca384e4863d4e5d5b8b08",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 248656,
+            "update": "2024-08-01 15:17:28"
+        },
+        "315": {
+            "path": "/relic/315.png",
+            "hash": "0b7afa69239e44632689d485b5b7c65d",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 340483,
+            "update": "2024-08-01 15:17:28"
+        },
+        "101": {
+            "path": "/relic/101.png",
+            "hash": "9414f1fa40532f4cf83763215a13531b",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 243650,
+            "update": "2024-08-01 15:17:28"
+        },
+        "107": {
+            "path": "/relic/107.png",
+            "hash": "8fcfc345fce97028f5ddde04ab911052",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 246018,
+            "update": "2024-08-01 15:17:28"
+        },
+        "119": {
+            "path": "/relic/119.png",
+            "hash": "d078b267935873f3a99fc5411f7d44d7",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 262811,
+            "update": "2024-08-01 15:17:28"
+        },
+        "112": {
+            "path": "/relic/112.png",
+            "hash": "6658b6e87ba6e42e61d52d7d3fbd6774",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 254693,
+            "update": "2024-08-01 15:17:28"
+        },
+        "303": {
+            "path": "/relic/303.png",
+            "hash": "b916c78cfd4722d901bec49e027b0d17",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 273901,
+            "update": "2024-08-01 15:17:28"
+        },
+        "117": {
+            "path": "/relic/117.png",
+            "hash": "ac551e27e5a1fb4502a21ca60d29d034",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 265189,
+            "update": "2024-08-01 15:17:28"
+        },
+        "116": {
+            "path": "/relic/116.png",
+            "hash": "00d20944e9a765ad4d8857e6a9101ab3",
+            "ext": "png",
+            "width": 2400,
+            "height": 900,
+            "size": 252303,
+            "update": "2024-08-01 15:17:28"
         }
     },
-    "enemy": {
-        "ATGB-SEG1": {
-            "path": "/enemy/ATGB-SEG1.png",
-            "hash": "1a5e74cfd9d171b1ba14fb462bcbc5ba",
+    "guide for role": {
+        "1006": {
+            "path": "/guide for role/1006.png",
+            "hash": "c21175b60cc372b6357f74e1b89e9044",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 629202,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 942832,
+            "update": "2024-08-01 15:17:28"
         },
-        "PTU-SEG1": {
-            "path": "/enemy/PTU-SEG1.png",
-            "hash": "2d10a77d86095eda12d57bf90d6ecaec",
+        "1312": {
+            "path": "/guide for role/1312.png",
+            "hash": "6a2126a1c373c01dda13800d3b5ab3d2",
             "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 1353703,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 925106,
+            "update": "2024-08-01 15:17:28"
         },
-        "CCLC-SEG1": {
-            "path": "/enemy/CCLC-SEG1.png",
-            "hash": "be5b2b292b4c3a2a3cce8bf11b708a0f",
+        "1304": {
+            "path": "/guide for role/1304.png",
+            "hash": "ed85154afdf2a872410c1c81fbb7958d",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 933596,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 949472,
+            "update": "2024-08-01 15:17:28"
         },
-        "SVGC-SEG1": {
-            "path": "/enemy/SVGC-SEG1.png",
-            "hash": "c1448172f2921e12c0bc8ec49f1fab97",
+        "1208": {
+            "path": "/guide for role/1208.png",
+            "hash": "1821983e56a3edb1fd948509efe673a6",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 772068,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 944556,
+            "update": "2024-08-01 15:17:28"
         },
-        "GPDC-SEG1": {
-            "path": "/enemy/GPDC-SEG1.png",
-            "hash": "c4388707d03f07d177f210fe8dc017ec",
+        "1217": {
+            "path": "/guide for role/1217.png",
+            "hash": "432963ef4be941d1d4588fddab0c9451",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 939420,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 942939,
+            "update": "2024-08-01 15:17:28"
         },
-        "BRY-SEG1": {
-            "path": "/enemy/BRY-SEG1.png",
-            "hash": "1a8adbc6ff76427904d01585ea0cf4d2",
+        "1214": {
+            "path": "/guide for role/1214.png",
+            "hash": "1bb4462133c3cab246e42875d471f844",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 541585,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 939937,
+            "update": "2024-08-01 15:17:28"
         },
-        "ATGC-SEG1": {
-            "path": "/enemy/ATGC-SEG1.png",
-            "hash": "3f622075bfac633e237252f1f7ea0842",
+        "1210": {
+            "path": "/guide for role/1210.png",
+            "hash": "2aa4884e31d2df635474f7fa58952a04",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 658944,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 944099,
+            "update": "2024-08-01 15:17:28"
         },
-        "SMLB-SEG1": {
-            "path": "/enemy/SMLB-SEG1.png",
-            "hash": "9c9d43ad7c9b9dced452a944f5f94cab",
+        "1103": {
+            "path": "/guide for role/1103.png",
+            "hash": "aa47ca285d1d040f565e6747923e7fc9",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 621984,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 927079,
+            "update": "2024-08-01 15:17:28"
         },
-        "DS-SEG1": {
-            "path": "/enemy/DS-SEG1.png",
-            "hash": "08c348fb23159c0c98868c357fe6d682",
+        "1002": {
+            "path": "/guide for role/1002.png",
+            "hash": "4402ccb3b7265d8e5e4d8c0eeff3b5b6",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 626799,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 896503,
+            "update": "2024-08-01 15:17:28"
         },
-        "BOS-SEG1": {
-            "path": "/enemy/BOS-SEG1.png",
-            "hash": "43da87bf9a91e681b73faaa0084cc597",
+        "1207": {
+            "path": "/guide for role/1207.png",
+            "hash": "3ce431bcd159071d0d47ed99330a61aa",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 648669,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 928693,
+            "update": "2024-08-01 15:17:28"
         },
-        "TSTS-SEG1": {
-            "path": "/enemy/TSTS-SEG1.png",
-            "hash": "daca3529e8da30ea94495c5664beffab",
+        "1204": {
+            "path": "/guide for role/1204.png",
+            "hash": "3d538cc291b6c15caaeb75a11dd716e1",
             "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 1154298,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 918851,
+            "update": "2024-08-01 15:17:28"
         },
-        "AMGK-SEG1": {
-            "path": "/enemy/AMGK-SEG1.png",
-            "hash": "91db41586ad48eef85ea392ee9a38cc2",
+        "1209": {
+            "path": "/guide for role/1209.png",
+            "hash": "f598949092cf3ecbe4bc0e2f3a64a169",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 629935,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 941003,
+            "update": "2024-08-01 15:17:28"
         },
-        "ASMA-SEG1": {
-            "path": "/enemy/ASMA-SEG1.png",
-            "hash": "9b631e1439699acb3eec24ecd1300d25",
+        "1303": {
+            "path": "/guide for role/1303.png",
+            "hash": "bc7397484c1ebcbc9796743e3ff3b142",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 717852,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 934944,
+            "update": "2024-08-01 15:17:28"
         },
-        "FP-SEG1": {
-            "path": "/enemy/FP-SEG1.png",
-            "hash": "b0150b6e9e406c9871c851f8dabbb2d7",
+        "1013": {
+            "path": "/guide for role/1013.png",
+            "hash": "81d511cf97470e31be58ba4779917c51",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 695129,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 912463,
+            "update": "2024-08-01 15:17:28"
         },
-        "SPB-SEG1": {
-            "path": "/enemy/SPB-SEG1.png",
-            "hash": "4e6396f10e5e7420dc2809cfb8fe3cc3",
+        "1008": {
+            "path": "/guide for role/1008.png",
+            "hash": "220db9a2401f3581706cf848b99b87b8",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 936533,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 914520,
+            "update": "2024-08-01 15:17:28"
         },
-        "DSMSSB-SEG1": {
-            "path": "/enemy/DSMSSB-SEG1.png",
-            "hash": "f4d3e351e9cda56a02a956f23fc58bab",
+        "1105": {
+            "path": "/guide for role/1105.png",
+            "hash": "66591137bfb782d5853bc16ffd6af129",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 677535,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 932797,
+            "update": "2024-08-01 15:17:28"
         },
-        "ATDB-SEG1": {
-            "path": "/enemy/ATDB-SEG1.png",
-            "hash": "5295a7e951a1f83843d729d9422d4c10",
+        "1211": {
+            "path": "/guide for role/1211.png",
+            "hash": "8c36d599ba373c47b65897209e224fa9",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 561548,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 945512,
+            "update": "2024-08-01 15:17:28"
         },
-        "SMLC-SEG1": {
-            "path": "/enemy/SMLC-SEG1.png",
-            "hash": "6679a63be8f368afd2e57d44be2c3656",
+        "1003": {
+            "path": "/guide for role/1003.png",
+            "hash": "b8a737813196e64826cc566c3b34fe02",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 589281,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 935627,
+            "update": "2024-08-01 15:17:28"
         },
-        "AED-SEG1": {
-            "path": "/enemy/AED-SEG1.png",
-            "hash": "424b1f4f7529e3ea0d523138e1cdccde",
+        "1309": {
+            "path": "/guide for role/1309.png",
+            "hash": "9ec7496cba3dd12f2bc34f8f695503af",
             "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 1191554,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 949625,
+            "update": "2024-08-01 15:17:28"
         },
-        "GPD-SEG1": {
-            "path": "/enemy/GPD-SEG1.png",
-            "hash": "1fddaa9994ad04d12bd995e9aee5116c",
+        "8005": {
+            "path": "/guide for role/8005.png",
+            "hash": "0aaee316fb6ba03274d886ad01334386",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 665279,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 933749,
+            "update": "2024-08-01 15:17:28"
         },
-        "KFKC-SEG1": {
-            "path": "/enemy/KFKC-SEG1.png",
-            "hash": "b8862e07f79d132bd9995880f424c7ed",
+        "1108": {
+            "path": "/guide for role/1108.png",
+            "hash": "3750976e2df512fa48501025106c24fd",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 907729,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 910055,
+            "update": "2024-08-01 15:17:28"
         },
-        "KFK-SEG1": {
-            "path": "/enemy/KFK-SEG1.png",
-            "hash": "4c623555c0101c6239d0667f297a7819",
+        "8001": {
+            "path": "/guide for role/8001.png",
+            "hash": "8ef76e69bbbfcadeb88b2b1a557bdccb",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 858610,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 909136,
+            "update": "2024-08-01 15:17:28"
         },
-        "SSTLB-SEG1": {
-            "path": "/enemy/SSTLB-SEG1.png",
-            "hash": "5ae1ce278473fdefee290cc9db42bc69",
+        "1106": {
+            "path": "/guide for role/1106.png",
+            "hash": "18e1e234aac101136f6cca877127c0bd",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 841326,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 940019,
+            "update": "2024-08-01 15:17:28"
         },
-        "ASMAB-SEG1": {
-            "path": "/enemy/ASMAB-SEG1.png",
-            "hash": "f4ec21364f4edb4e45b7b4d73e20e01b",
+        "1110": {
+            "path": "/guide for role/1110.png",
+            "hash": "40496bebb41179cf5e72e785fb2fa3fc",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 716745,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 930403,
+            "update": "2024-08-01 15:17:28"
         },
-        "TA-SEG1": {
-            "path": "/enemy/TA-SEG1.png",
-            "hash": "cb85c1633be7fd7f1db35277b895a3b7",
+        "8003": {
+            "path": "/guide for role/8003.png",
+            "hash": "90189a1d082248166e9ec1e58545a220",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 597139,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 906672,
+            "update": "2024-08-01 15:17:28"
         },
-        "ARAUC-SEG1": {
-            "path": "/enemy/ARAUC-SEG1.png",
-            "hash": "2b19f1cb51c4c398affbde44a7084f71",
+        "1302": {
+            "path": "/guide for role/1302.png",
+            "hash": "7092032b5061875b4a5319dc8547e766",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 566203,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 947244,
+            "update": "2024-08-01 15:17:28"
         },
-        "ATD-SEG1": {
-            "path": "/enemy/ATD-SEG1.png",
-            "hash": "b961c784526a5876833654a1825787de",
+        "1206": {
+            "path": "/guide for role/1206.png",
+            "hash": "3349d1f7fd9be269d1204e6a33e3bcf2",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 579421,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 936282,
+            "update": "2024-08-01 15:17:28"
         },
-        "ATDC-SEG1": {
-            "path": "/enemy/ATDC-SEG1.png",
-            "hash": "7139178c0dba21b910f3fa5867ed7d58",
+        "1004": {
+            "path": "/guide for role/1004.png",
+            "hash": "a5e8c8a2121d441bd248f9d33ff7a376",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 762335,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 922696,
+            "update": "2024-08-01 15:17:28"
         },
-        "GSB-SEG1": {
-            "path": "/enemy/GSB-SEG1.png",
-            "hash": "c7370b5ebd6db9da05f0a2f91391e977",
+        "1308": {
+            "path": "/guide for role/1308.png",
+            "hash": "9d8e4860fb0d5c0f8841d970f2510dad",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 897234,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 935849,
+            "update": "2024-08-01 15:17:28"
         },
-        "SP-SEG1": {
-            "path": "/enemy/SP-SEG1.png",
-            "hash": "6da5861953fa41d214feb2c51217917b",
+        "1202": {
+            "path": "/guide for role/1202.png",
+            "hash": "0da54d7b5bbbec2c018758e3b1401e55",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 668603,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 951957,
+            "update": "2024-08-01 15:17:28"
         },
-        "SML-SEG1": {
-            "path": "/enemy/SML-SEG1.png",
-            "hash": "46dd71fe4d263ad4aaa2608242722715",
+        "1314": {
+            "path": "/guide for role/1314.png",
+            "hash": "c37f37f0d4dedfb6be759f4d3ab8b296",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 619110,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 941750,
+            "update": "2024-08-01 15:17:28"
         },
-        "CCL-SEG1": {
-            "path": "/enemy/CCL-SEG1.png",
-            "hash": "643d46c720e4bdaf9e830892b0b34b7b",
+        "1102": {
+            "path": "/guide for role/1102.png",
+            "hash": "e8c98ebe99f2622a6ed8286d5d0905bc",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 890850,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 935486,
+            "update": "2024-08-01 15:17:28"
         },
-        "GS-SEG1": {
-            "path": "/enemy/GS-SEG1.png",
-            "hash": "b4e767ffaf165a3d0d8080a18b84c823",
+        "1109": {
+            "path": "/guide for role/1109.png",
+            "hash": "32355112fef08f3cfb9bf13a9e71fb9e",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 885296,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 895892,
+            "update": "2024-08-01 15:17:28"
         },
-        "VRT-SEG1": {
-            "path": "/enemy/VRT-SEG1.png",
-            "hash": "7f0fb5e8add0229420c39975a61ae17a",
+        "1009": {
+            "path": "/guide for role/1009.png",
+            "hash": "a33e01adf6c7e9a862540fd4bc4ac99e",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 713675,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 930052,
+            "update": "2024-08-01 15:17:28"
         },
-        "ATG-SEG1": {
-            "path": "/enemy/ATG-SEG1.png",
-            "hash": "0aa8e0eb96d3e1b45a6b6a78e7745385",
+        "1212": {
+            "path": "/guide for role/1212.png",
+            "hash": "b245aaf215b7a17f278cdf716f90050a",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 624314,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 955929,
+            "update": "2024-08-01 15:17:28"
         },
-        "IOS-SEG1": {
-            "path": "/enemy/IOS-SEG1.png",
-            "hash": "e4ea72d7b5ad0fed94e899d763a1f4ea",
+        "1203": {
+            "path": "/guide for role/1203.png",
+            "hash": "8909719b0def2f9f34f9920b9b6b52a4",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 669977,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 928009,
+            "update": "2024-08-01 15:17:28"
         },
-        "CKLYQC-SEG1": {
-            "path": "/enemy/CKLYQC-SEG1.png",
-            "hash": "dc6c73eb1e8ab406b5173d287b5a12dd",
+        "1307": {
+            "path": "/guide for role/1307.png",
+            "hash": "9daa74374d05ac05b4c3a1716aadf690",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 913066,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 933223,
+            "update": "2024-08-01 15:17:28"
         },
-        "SSTL-SEG1": {
-            "path": "/enemy/SSTL-SEG1.png",
-            "hash": "ccaf0d50e698d8961ac61f4a8f6b3284",
+        "1310": {
+            "path": "/guide for role/1310.png",
+            "hash": "42f881b0ea58f2784c2c35ebe7c898f5",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 832653,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 947512,
+            "update": "2024-08-01 15:17:28"
         },
-        "AG-SEG1": {
-            "path": "/enemy/AG-SEG1.png",
-            "hash": "9c383b833847f6652d0d6d660ae807ad",
+        "1111": {
+            "path": "/guide for role/1111.png",
+            "hash": "f9ea84f2435e46db5bc038601ca3955d",
             "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 961093,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 944804,
+            "update": "2024-08-01 15:17:28"
         },
-        "VRTB-SEG1": {
-            "path": "/enemy/VRTB-SEG1.png",
-            "hash": "94cfc39ec90f4c526fe2098e90917ffd",
+        "1107": {
+            "path": "/guide for role/1107.png",
+            "hash": "3b37f75847d1ae79534020968f15463c",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 714015,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 918645,
+            "update": "2024-08-01 15:17:28"
         },
-        "DDB-SEG1": {
-            "path": "/enemy/DDB-SEG1.png",
-            "hash": "866b4b4cf9a7b5063a2ee2d9ac035362",
+        "1001": {
+            "path": "/guide for role/1001.png",
+            "hash": "063a0cc1cd87bf37cdc9f8d12e2a76e3",
             "ext": "png",
-            "width": 2560,
-            "height": 1440,
-            "size": 1203523,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 934109,
+            "update": "2024-08-01 15:17:28"
         },
-        "AEDC-SEG1": {
-            "path": "/enemy/AEDC-SEG1.png",
-            "hash": "b1c10d59de3ff7da2fe6bfa5dc5121ca",
+        "1005": {
+            "path": "/guide for role/1005.png",
+            "hash": "550a863895af15fdeb081f6fec925fb1",
             "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 1236468,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 923324,
+            "update": "2024-08-01 15:17:28"
         },
-        "BOSB-SEG1": {
-            "path": "/enemy/BOSB-SEG1.png",
-            "hash": "a8336c77bd4a7d950bf31cd543ea975a",
+        "1104": {
+            "path": "/guide for role/1104.png",
+            "hash": "5403efa2e31c938bce1cd41d9920cf89",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 918654,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 934048,
+            "update": "2024-08-01 15:17:28"
         },
-        "STB-SEG1": {
-            "path": "/enemy/STB-SEG1.png",
-            "hash": "40eee1cce69b62a1ea1e82eca8c4f1cf",
+        "1101": {
+            "path": "/guide for role/1101.png",
+            "hash": "7040014a8f218987920a38b8105f13de",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 594024,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 929670,
+            "update": "2024-08-01 15:17:28"
         },
-        "IOSB-SEG1": {
-            "path": "/enemy/IOSB-SEG1.png",
-            "hash": "edc5aee647df22947f14c83ac8d0a2c0",
+        "1112": {
+            "path": "/guide for role/1112.png",
+            "hash": "897dcb67fae4cec10eeeb18fe7299271",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 682683,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 937384,
+            "update": "2024-08-01 15:17:28"
         },
-        "DSMSS-SEG1": {
-            "path": "/enemy/DSMSS-SEG1.png",
-            "hash": "a9c9461ecfd69d577f392f479e26b86d",
+        "1306": {
+            "path": "/guide for role/1306.png",
+            "hash": "6d91558210b5dfd6d94a5778207daf8f",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 663176,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 956228,
+            "update": "2024-08-01 15:17:28"
         },
-        "SVG-SEG1": {
-            "path": "/enemy/SVG-SEG1.png",
-            "hash": "bc3719e0afd42413a264b4aa70167d47",
+        "1301": {
+            "path": "/guide for role/1301.png",
+            "hash": "3806cbeb246f3d2223a5135534b9ca25",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 725988,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 941747,
+            "update": "2024-08-01 15:17:28"
         },
-        "CCMD-SEG1": {
-            "path": "/enemy/CCMD-SEG1.png",
-            "hash": "40761adb5a7f37b1cca4b315251e0935",
+        "1215": {
+            "path": "/guide for role/1215.png",
+            "hash": "0a93dcc50cf9756054148526777dbb46",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 1005683,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 935758,
+            "update": "2024-08-01 15:17:28"
         },
-        "TAB-SEG1": {
-            "path": "/enemy/TAB-SEG1.png",
-            "hash": "2eb2430568dbf4e1b7a9913ad3d70259",
+        "1213": {
+            "path": "/guide for role/1213.png",
+            "hash": "2d9fb4316aaf6781d1aef248af77ae0e",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 613484,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 928432,
+            "update": "2024-08-01 15:17:28"
         },
-        "FPB-SEG1": {
-            "path": "/enemy/FPB-SEG1.png",
-            "hash": "2aafede2637466d3749c58f5cb686c07",
+        "1305": {
+            "path": "/guide for role/1305.png",
+            "hash": "8f4f5791b19e8b7583bf77d54354e8c7",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 955771,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 940100,
+            "update": "2024-08-01 15:17:28"
         },
-        "AMSEB-SEG1": {
-            "path": "/enemy/AMSEB-SEG1.png",
-            "hash": "9d6a3183741b80556914706bfe93818b",
+        "1315": {
+            "path": "/guide for role/1315.png",
+            "hash": "bdd39b87af92ca6117c3d5e5d3346cd3",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 742390,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 955415,
+            "update": "2024-08-01 15:17:28"
         },
-        "STBB-SEG1": {
-            "path": "/enemy/STBB-SEG1.png",
-            "hash": "b3a9e2d6dead148adf45c1b4663e765c",
+        "1201": {
+            "path": "/guide for role/1201.png",
+            "hash": "0f7d0983d4e8d1ffd6fba25c3306ecf3",
             "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 796832,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 930112,
+            "update": "2024-08-01 15:17:28"
         },
-        "AMGKB-SEG1": {
-            "path": "/enemy/AMGKB-SEG1.png",
-            "hash": "4755f2d25a9ad7e5558140c7660d35c0",
+        "1205": {
+            "path": "/guide for role/1205.png",
+            "hash": "d203e3394b326f31e97b1adeee2ce3b0",
             "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 629790,
-            "update": "2024-07-14 18:10:01"
-        },
-        "DSB-SEG1": {
-            "path": "/enemy/DSB-SEG1.png",
-            "hash": "5b09a9e8b70f2b6ccd9c132b3280ceac",
-            "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 616676,
-            "update": "2024-07-14 18:10:01"
-        },
-        "AMSE-SEG1": {
-            "path": "/enemy/AMSE-SEG1.png",
-            "hash": "aaeba74a0aedea69c86b3401dba10b6e",
-            "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 588578,
-            "update": "2024-07-14 18:10:01"
-        },
-        "BRYC-SEG1": {
-            "path": "/enemy/BRYC-SEG1.png",
-            "hash": "44cb96b0fb1f765bd23a3066a8cf37f4",
-            "ext": "png",
-            "width": 1792,
-            "height": 1280,
-            "size": 551764,
-            "update": "2024-07-14 18:10:01"
-        },
-        "CKLYQ-SEG1": {
-            "path": "/enemy/CKLYQ-SEG1.png",
-            "hash": "e9c182eb482561887895e12706cab469",
-            "ext": "png",
-            "width": 2560,
-            "height": 1280,
-            "size": 877801,
-            "update": "2024-07-14 18:10:01"
-        },
-        "TSTSC-SEG1": {
-            "path": "/enemy/TSTSC-SEG1.png",
-            "hash": "041f36efa967db3f552fda915059bed6",
-            "ext": "png",
-            "width": 3328,
-            "height": 1280,
-            "size": 1183156,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 1080,
+            "size": 926658,
+            "update": "2024-08-01 15:17:28"
         }
     },
     "lightcone": {
-        "21000": {
-            "path": "/lightcone/21000.png",
-            "hash": "9f000f1689633cd033ec027415ca9086",
+        "21015": {
+            "path": "/lightcone/21015.png",
+            "hash": "4b708db344dcb75e5b43528143638247",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 399861,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23017": {
-            "path": "/lightcone/23017.png",
-            "hash": "e07d0dcf84eff0face8f4fd13cbd69ca",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 410181,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21008": {
-            "path": "/lightcone/21008.png",
-            "hash": "46addbab2fcb55d65935a3e87c2397d1",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 401718,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21024": {
-            "path": "/lightcone/21024.png",
-            "hash": "e1a28154c09564f61a8f8e055f6e8afe",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 392071,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23024": {
-            "path": "/lightcone/23024.png",
-            "hash": "7d3941c69f874cc6dd65e3a6637bacf4",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 453872,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20017": {
-            "path": "/lightcone/20017.png",
-            "hash": "ac348afe289e6f86312abca76a57e9c2",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 380167,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20011": {
-            "path": "/lightcone/20011.png",
-            "hash": "23d933545de831ea972d2efa80a16e1a",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 384710,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23011": {
-            "path": "/lightcone/23011.png",
-            "hash": "942f5528d6469db5e99dca87da43ed32",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 418518,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23016": {
-            "path": "/lightcone/23016.png",
-            "hash": "68772e93d7573829f2932f18afb50e7e",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 411667,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21016": {
-            "path": "/lightcone/21016.png",
-            "hash": "fc546a5581eb0d8e32983239f6959dd0",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 416916,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23009": {
-            "path": "/lightcone/23009.png",
-            "hash": "aaca2183eb4b4c967f4c87cbacc4c9af",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 407676,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23005": {
-            "path": "/lightcone/23005.png",
-            "hash": "64438527c62175d0669538212b650ce0",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 420480,
-            "update": "2024-07-14 18:10:01"
-        },
-        "22002": {
-            "path": "/lightcone/22002.png",
-            "hash": "9c63f725189b35869bbe8e5414cd6040",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 389881,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21013": {
-            "path": "/lightcone/21013.png",
-            "hash": "30ef6cac5fec79aaf3f71e2a1713e07d",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 391716,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23020": {
-            "path": "/lightcone/23020.png",
-            "hash": "39af8a3c2c5a2a538986040e522b335e",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 427294,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20020": {
-            "path": "/lightcone/20020.png",
-            "hash": "ec41672f330f31e721bd301f9e8a3bf5",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 405447,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21026": {
-            "path": "/lightcone/21026.png",
-            "hash": "dd967a9ee5402dc2748c0da193a2d342",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 387934,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23003": {
-            "path": "/lightcone/23003.png",
-            "hash": "1213095eb5f52123f1d311143a051fd9",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 434654,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21017": {
-            "path": "/lightcone/21017.png",
-            "hash": "379ece1e51743adef77329a92a04b74e",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 382806,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21039": {
-            "path": "/lightcone/21039.png",
-            "hash": "0e75c8fd5860a0c5a7e98d696c595b04",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 383512,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21009": {
-            "path": "/lightcone/21009.png",
-            "hash": "cde4c1710fd280772ab263b49faed415",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 367955,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21025": {
-            "path": "/lightcone/21025.png",
-            "hash": "7e6af9afcfa8f9439b73f8bb1e850f0e",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 388739,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23015": {
-            "path": "/lightcone/23015.png",
-            "hash": "f0cbba7f745998ae2588ef234e15f254",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 426102,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23013": {
-            "path": "/lightcone/23013.png",
-            "hash": "93ec4a4f3bc8ef67446473ed3d2b4a3b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 419435,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23023": {
-            "path": "/lightcone/23023.png",
-            "hash": "3bd28316536a2fa0ea7c299962c7613b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 430822,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21023": {
-            "path": "/lightcone/21023.png",
-            "hash": "9fff9dc4c18d8a34f2b02957745fc1cb",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 398849,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23010": {
-            "path": "/lightcone/23010.png",
-            "hash": "c84cc15e2e85f939ca9af9448624baf6",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 416608,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23022": {
-            "path": "/lightcone/23022.png",
-            "hash": "3dd1722af17c766d374e2ad3155345a4",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 434805,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21014": {
-            "path": "/lightcone/21014.png",
-            "hash": "ab3f970a7891e2b96781de7161ab1e16",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 400474,
-            "update": "2024-07-14 18:10:01"
+            "size": 388540,
+            "update": "2024-08-01 15:17:28"
         },
         "21012": {
             "path": "/lightcone/21012.png",
@@ -1597,439 +821,7 @@
             "width": 2000,
             "height": 1080,
             "size": 385473,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21019": {
-            "path": "/lightcone/21019.png",
-            "hash": "3f8d55236dd78291ea5928246c596acf",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 409526,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20007": {
-            "path": "/lightcone/20007.png",
-            "hash": "b6f86835cc38fa148cadf25624f90e6c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 376280,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20001": {
-            "path": "/lightcone/20001.png",
-            "hash": "d83f972c13dfb1bbc05c43b8972aa9ba",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 385433,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23025": {
-            "path": "/lightcone/23025.png",
-            "hash": "eed195f8125bef2d5ccfa0d258bb3e39",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 421586,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21036": {
-            "path": "/lightcone/21036.png",
-            "hash": "9bf5b72b038868627d0276246fb8ad1d",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 414033,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21018": {
-            "path": "/lightcone/21018.png",
-            "hash": "bcf3625d89218387858c181ac9ad7a1b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 403206,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20005": {
-            "path": "/lightcone/20005.png",
-            "hash": "04a3815c682c5cdd91eaa20056e7f6c6",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 417081,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23021": {
-            "path": "/lightcone/23021.png",
-            "hash": "c5cd25759ddd33bb6148b7670d0f78fe",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 412094,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21042": {
-            "path": "/lightcone/21042.png",
-            "hash": "20b98fa03afc12ddffd4f277ccdaaa62",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 388675,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21031": {
-            "path": "/lightcone/21031.png",
-            "hash": "2f1aa55fcc4ad947028c2b48933fdbe2",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 407977,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21001": {
-            "path": "/lightcone/21001.png",
-            "hash": "e51ba2ac32976c17dc45016ccb20fe3f",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 389342,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21007": {
-            "path": "/lightcone/21007.png",
-            "hash": "027c4cd9c289e233e64ef5dc54efd587",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 381272,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21043": {
-            "path": "/lightcone/21043.png",
-            "hash": "568e7ae9ac8d52138e6429c816b0b635",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 412274,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21035": {
-            "path": "/lightcone/21035.png",
-            "hash": "12b4b85b7d6e00e4e6ec50c6b22afc45",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 389607,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21022": {
-            "path": "/lightcone/21022.png",
-            "hash": "0f60796988727a9baadde52a43a2af19",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 382369,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20013": {
-            "path": "/lightcone/20013.png",
-            "hash": "b2d085364df7d9f2433002179df21e44",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 370981,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23018": {
-            "path": "/lightcone/23018.png",
-            "hash": "5304693ca8b2505e1294f44b50da271a",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 415184,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23012": {
-            "path": "/lightcone/23012.png",
-            "hash": "7b6d481e5e8d178027f071c0bcf2de3c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 393331,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23006": {
-            "path": "/lightcone/23006.png",
-            "hash": "c9c5466168aa3e681de2777806d604fa",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 419807,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21032": {
-            "path": "/lightcone/21032.png",
-            "hash": "7af10d3a5bdfcbc0b4a029e3d1452c61",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 385960,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21028": {
-            "path": "/lightcone/21028.png",
-            "hash": "d0e949de31b02e6510e32519ee141510",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 383371,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21005": {
-            "path": "/lightcone/21005.png",
-            "hash": "a78ab83528cedcbc436e6f6880c1844b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 374009,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20010": {
-            "path": "/lightcone/20010.png",
-            "hash": "a4225d4e265b4f689b677d4b0fb16e2c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 372108,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23004": {
-            "path": "/lightcone/23004.png",
-            "hash": "d06212e5fc853801eb481ba1adab5558",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 401212,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21020": {
-            "path": "/lightcone/21020.png",
-            "hash": "f8e18dfc0b3b28df1d4a6393d2228547",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 403984,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20004": {
-            "path": "/lightcone/20004.png",
-            "hash": "c5c48596fd2a14172de1f98bb8d5d955",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 430076,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23014": {
-            "path": "/lightcone/23014.png",
-            "hash": "b8bb8fc0d366d5983d0530f6dc8a54cd",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 426021,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20000": {
-            "path": "/lightcone/20000.png",
-            "hash": "e534cfd6774dcb36e229539034eab537",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 359776,
-            "update": "2024-07-14 18:10:01"
-        },
-        "24001": {
-            "path": "/lightcone/24001.png",
-            "hash": "7ce49cff4c87b4e27746e6347bddec36",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 374700,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21030": {
-            "path": "/lightcone/21030.png",
-            "hash": "462376ae5604cc393b723a075008aac5",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 425660,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21027": {
-            "path": "/lightcone/21027.png",
-            "hash": "f9948d031c06466752642c8fb6c43a43",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 381256,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21041": {
-            "path": "/lightcone/21041.png",
-            "hash": "7d01af0988fb6f5fdac84e7214e0161b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 402916,
-            "update": "2024-07-14 18:10:01"
-        },
-        "24002": {
-            "path": "/lightcone/24002.png",
-            "hash": "28a975f6c1ef0d5cce9fbe15e393bf62",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 448997,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21037": {
-            "path": "/lightcone/21037.png",
-            "hash": "972b26b7d2d54d49a2343d8d252b3bb1",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 394066,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20015": {
-            "path": "/lightcone/20015.png",
-            "hash": "d1e77ac754520b3cd28cce976b5ecade",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 388891,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21021": {
-            "path": "/lightcone/21021.png",
-            "hash": "203e53744b42610cca23c1aa59e96489",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 391035,
-            "update": "2024-07-14 18:10:01"
-        },
-        "24004": {
-            "path": "/lightcone/24004.png",
-            "hash": "59736a4c21ab00c8dbe8adf74db783ae",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 424767,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21010": {
-            "path": "/lightcone/21010.png",
-            "hash": "96be80eb6b7d5aba77ca69fa74eb5051",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 412054,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20003": {
-            "path": "/lightcone/20003.png",
-            "hash": "6c7b7255ce38d86bd04cb818162df200",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 422917,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21040": {
-            "path": "/lightcone/21040.png",
-            "hash": "c650b794801722cb5f069325dbf531cd",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 377723,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20016": {
-            "path": "/lightcone/20016.png",
-            "hash": "3ca47ef9c867fabe8c0951317a7f7d91",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 399638,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21038": {
-            "path": "/lightcone/21038.png",
-            "hash": "4ddc74852e07f15ae63897a77a22d326",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 419476,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21029": {
-            "path": "/lightcone/21029.png",
-            "hash": "a1d1bc16a386b8a24a17e1af4124ef71",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 402798,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23019": {
-            "path": "/lightcone/23019.png",
-            "hash": "51f44f1f062def5a52190ca8d43e1c32",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 427174,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20014": {
-            "path": "/lightcone/20014.png",
-            "hash": "9bbe6388bd740345b61cd292ea21b8de",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 404686,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21044": {
-            "path": "/lightcone/21044.png",
-            "hash": "3ad16645ec5de623cbe3a157022f7408",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 393926,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20006": {
-            "path": "/lightcone/20006.png",
-            "hash": "18e3752d15216862d7c0329731d61a1c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 399739,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23000": {
-            "path": "/lightcone/23000.png",
-            "hash": "9679efd311509c806b848f3d09455bc9",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 399106,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
         "21034": {
             "path": "/lightcone/21034.png",
@@ -2038,70 +830,7 @@
             "width": 2000,
             "height": 1080,
             "size": 398039,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23026": {
-            "path": "/lightcone/23026.png",
-            "hash": "b84915086c4b32e33808f349b0b0203c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 436594,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21015": {
-            "path": "/lightcone/21015.png",
-            "hash": "4b708db344dcb75e5b43528143638247",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 388540,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20012": {
-            "path": "/lightcone/20012.png",
-            "hash": "12672dde66126104e492b2ffc1d82491",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 451343,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21003": {
-            "path": "/lightcone/21003.png",
-            "hash": "5864df28a5f944fd399270f9906b1122",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 386268,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21002": {
-            "path": "/lightcone/21002.png",
-            "hash": "0c42b4470f33a85c5d16a89bfa28015d",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 382487,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20009": {
-            "path": "/lightcone/20009.png",
-            "hash": "979003a6d03b5576f7cf47699f894802",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 401127,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23007": {
-            "path": "/lightcone/23007.png",
-            "hash": "b81a1e65785ae80adb4495a2bec48d5b",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 413627,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
         "24003": {
             "path": "/lightcone/24003.png",
@@ -2110,124 +839,70 @@
             "width": 2000,
             "height": 1080,
             "size": 407447,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
         },
-        "21033": {
-            "path": "/lightcone/21033.png",
-            "hash": "97ee8807123d3be444ca2c199e22dcaa",
+        "21030": {
+            "path": "/lightcone/21030.png",
+            "hash": "462376ae5604cc393b723a075008aac5",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 403245,
-            "update": "2024-07-14 18:10:01"
+            "size": 425660,
+            "update": "2024-08-01 15:17:28"
         },
-        "21006": {
-            "path": "/lightcone/21006.png",
-            "hash": "d4a332f252ecae9b627c344a5512f03c",
+        "21021": {
+            "path": "/lightcone/21021.png",
+            "hash": "203e53744b42610cca23c1aa59e96489",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 431414,
-            "update": "2024-07-14 18:10:01"
+            "size": 391035,
+            "update": "2024-08-01 15:17:28"
         },
-        "23027": {
-            "path": "/lightcone/23027.png",
-            "hash": "6cc691881adc71c086443dd9a988d206",
+        "21026": {
+            "path": "/lightcone/21026.png",
+            "hash": "dd967a9ee5402dc2748c0da193a2d342",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 419024,
-            "update": "2024-07-14 18:10:01"
+            "size": 387934,
+            "update": "2024-08-01 15:17:28"
         },
-        "20002": {
-            "path": "/lightcone/20002.png",
-            "hash": "8921e7371b1e66942f06b36dda1e2aad",
+        "21010": {
+            "path": "/lightcone/21010.png",
+            "hash": "96be80eb6b7d5aba77ca69fa74eb5051",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 368561,
-            "update": "2024-07-14 18:10:01"
+            "size": 412054,
+            "update": "2024-08-01 15:17:28"
         },
-        "22001": {
-            "path": "/lightcone/22001.png",
-            "hash": "057d0d3194853b7affddc5b17f9d7b54",
+        "21005": {
+            "path": "/lightcone/21005.png",
+            "hash": "a78ab83528cedcbc436e6f6880c1844b",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 377993,
-            "update": "2024-07-14 18:10:01"
+            "size": 374009,
+            "update": "2024-08-01 15:17:28"
         },
-        "21011": {
-            "path": "/lightcone/21011.png",
-            "hash": "e4b348d362aa1479c77c8d312b408eed",
+        "21001": {
+            "path": "/lightcone/21001.png",
+            "hash": "e51ba2ac32976c17dc45016ccb20fe3f",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 373283,
-            "update": "2024-07-14 18:10:01"
+            "size": 389342,
+            "update": "2024-08-01 15:17:28"
         },
-        "23008": {
-            "path": "/lightcone/23008.png",
-            "hash": "3edf02cd217458c5568863a5887105ee",
+        "21009": {
+            "path": "/lightcone/21009.png",
+            "hash": "cde4c1710fd280772ab263b49faed415",
             "ext": "png",
             "width": 2000,
             "height": 1080,
-            "size": 432872,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20018": {
-            "path": "/lightcone/20018.png",
-            "hash": "6d205a20b838b9c2988ebd8c04167d18",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 385569,
-            "update": "2024-07-14 18:10:01"
-        },
-        "24000": {
-            "path": "/lightcone/24000.png",
-            "hash": "026e0f19f03e91651dad705fe9719786",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 444052,
-            "update": "2024-07-14 18:10:01"
-        },
-        "20008": {
-            "path": "/lightcone/20008.png",
-            "hash": "249d6573786f6c196fc28bc17d5f7742",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 368182,
-            "update": "2024-07-14 18:10:01"
-        },
-        "21004": {
-            "path": "/lightcone/21004.png",
-            "hash": "d1346b5bf62b99fea8bd7c6f28c1f2af",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 397417,
-            "update": "2024-07-14 18:10:01"
-        },
-        "23001": {
-            "path": "/lightcone/23001.png",
-            "hash": "6b8a253795d79d36332cf43d9702e58c",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 395938,
-            "update": "2024-07-14 18:10:01"
-        },
-        "22000": {
-            "path": "/lightcone/22000.png",
-            "hash": "9411025348d883980c942478230c55df",
-            "ext": "png",
-            "width": 2000,
-            "height": 1080,
-            "size": 401454,
-            "update": "2024-07-14 18:10:01"
+            "size": 367955,
+            "update": "2024-08-01 15:17:28"
         },
         "23002": {
             "path": "/lightcone/23002.png",
@@ -2236,7 +911,754 @@
             "width": 2000,
             "height": 1080,
             "size": 424473,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
+        },
+        "21013": {
+            "path": "/lightcone/21013.png",
+            "hash": "30ef6cac5fec79aaf3f71e2a1713e07d",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 391716,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23006": {
+            "path": "/lightcone/23006.png",
+            "hash": "c9c5466168aa3e681de2777806d604fa",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 419807,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23020": {
+            "path": "/lightcone/23020.png",
+            "hash": "39af8a3c2c5a2a538986040e522b335e",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 427294,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21025": {
+            "path": "/lightcone/21025.png",
+            "hash": "7e6af9afcfa8f9439b73f8bb1e850f0e",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 388739,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21031": {
+            "path": "/lightcone/21031.png",
+            "hash": "2f1aa55fcc4ad947028c2b48933fdbe2",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 407977,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23025": {
+            "path": "/lightcone/23025.png",
+            "hash": "eed195f8125bef2d5ccfa0d258bb3e39",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 421586,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20016": {
+            "path": "/lightcone/20016.png",
+            "hash": "3ca47ef9c867fabe8c0951317a7f7d91",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 399638,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20003": {
+            "path": "/lightcone/20003.png",
+            "hash": "6c7b7255ce38d86bd04cb818162df200",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 422917,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21008": {
+            "path": "/lightcone/21008.png",
+            "hash": "46addbab2fcb55d65935a3e87c2397d1",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 401718,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23014": {
+            "path": "/lightcone/23014.png",
+            "hash": "b8bb8fc0d366d5983d0530f6dc8a54cd",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 426021,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23023": {
+            "path": "/lightcone/23023.png",
+            "hash": "3bd28316536a2fa0ea7c299962c7613b",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 430822,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21000": {
+            "path": "/lightcone/21000.png",
+            "hash": "9f000f1689633cd033ec027415ca9086",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 399861,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23003": {
+            "path": "/lightcone/23003.png",
+            "hash": "1213095eb5f52123f1d311143a051fd9",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 434654,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21022": {
+            "path": "/lightcone/21022.png",
+            "hash": "0f60796988727a9baadde52a43a2af19",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 382369,
+            "update": "2024-08-01 15:17:28"
+        },
+        "22000": {
+            "path": "/lightcone/22000.png",
+            "hash": "9411025348d883980c942478230c55df",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 401454,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21039": {
+            "path": "/lightcone/21039.png",
+            "hash": "0e75c8fd5860a0c5a7e98d696c595b04",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 383512,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20011": {
+            "path": "/lightcone/20011.png",
+            "hash": "23d933545de831ea972d2efa80a16e1a",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 384710,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20002": {
+            "path": "/lightcone/20002.png",
+            "hash": "8921e7371b1e66942f06b36dda1e2aad",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 368561,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21027": {
+            "path": "/lightcone/21027.png",
+            "hash": "f9948d031c06466752642c8fb6c43a43",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 381256,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23022": {
+            "path": "/lightcone/23022.png",
+            "hash": "3dd1722af17c766d374e2ad3155345a4",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 434805,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21018": {
+            "path": "/lightcone/21018.png",
+            "hash": "bcf3625d89218387858c181ac9ad7a1b",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 403206,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20018": {
+            "path": "/lightcone/20018.png",
+            "hash": "6d205a20b838b9c2988ebd8c04167d18",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 385569,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21042": {
+            "path": "/lightcone/21042.png",
+            "hash": "20b98fa03afc12ddffd4f277ccdaaa62",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 388675,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20013": {
+            "path": "/lightcone/20013.png",
+            "hash": "b2d085364df7d9f2433002179df21e44",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 370981,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20007": {
+            "path": "/lightcone/20007.png",
+            "hash": "b6f86835cc38fa148cadf25624f90e6c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 376280,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23010": {
+            "path": "/lightcone/23010.png",
+            "hash": "c84cc15e2e85f939ca9af9448624baf6",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 416608,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20005": {
+            "path": "/lightcone/20005.png",
+            "hash": "04a3815c682c5cdd91eaa20056e7f6c6",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 417081,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21017": {
+            "path": "/lightcone/21017.png",
+            "hash": "379ece1e51743adef77329a92a04b74e",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 382806,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20009": {
+            "path": "/lightcone/20009.png",
+            "hash": "979003a6d03b5576f7cf47699f894802",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 401127,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21041": {
+            "path": "/lightcone/21041.png",
+            "hash": "7d01af0988fb6f5fdac84e7214e0161b",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 402916,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23007": {
+            "path": "/lightcone/23007.png",
+            "hash": "b81a1e65785ae80adb4495a2bec48d5b",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 413627,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20006": {
+            "path": "/lightcone/20006.png",
+            "hash": "18e3752d15216862d7c0329731d61a1c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 399739,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23013": {
+            "path": "/lightcone/23013.png",
+            "hash": "93ec4a4f3bc8ef67446473ed3d2b4a3b",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 419435,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23008": {
+            "path": "/lightcone/23008.png",
+            "hash": "3edf02cd217458c5568863a5887105ee",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 432872,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20012": {
+            "path": "/lightcone/20012.png",
+            "hash": "12672dde66126104e492b2ffc1d82491",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 451343,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21006": {
+            "path": "/lightcone/21006.png",
+            "hash": "d4a332f252ecae9b627c344a5512f03c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 431414,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20017": {
+            "path": "/lightcone/20017.png",
+            "hash": "ac348afe289e6f86312abca76a57e9c2",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 380167,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21023": {
+            "path": "/lightcone/21023.png",
+            "hash": "9fff9dc4c18d8a34f2b02957745fc1cb",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 398849,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20015": {
+            "path": "/lightcone/20015.png",
+            "hash": "d1e77ac754520b3cd28cce976b5ecade",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 388891,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20020": {
+            "path": "/lightcone/20020.png",
+            "hash": "ec41672f330f31e721bd301f9e8a3bf5",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 405447,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23017": {
+            "path": "/lightcone/23017.png",
+            "hash": "e07d0dcf84eff0face8f4fd13cbd69ca",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 410181,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21033": {
+            "path": "/lightcone/21033.png",
+            "hash": "97ee8807123d3be444ca2c199e22dcaa",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 403245,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21024": {
+            "path": "/lightcone/21024.png",
+            "hash": "e1a28154c09564f61a8f8e055f6e8afe",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 392071,
+            "update": "2024-08-01 15:17:28"
+        },
+        "24004": {
+            "path": "/lightcone/24004.png",
+            "hash": "59736a4c21ab00c8dbe8adf74db783ae",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 424767,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21040": {
+            "path": "/lightcone/21040.png",
+            "hash": "c650b794801722cb5f069325dbf531cd",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 377723,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21011": {
+            "path": "/lightcone/21011.png",
+            "hash": "e4b348d362aa1479c77c8d312b408eed",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 373283,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21028": {
+            "path": "/lightcone/21028.png",
+            "hash": "d0e949de31b02e6510e32519ee141510",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 383371,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21032": {
+            "path": "/lightcone/21032.png",
+            "hash": "7af10d3a5bdfcbc0b4a029e3d1452c61",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 385960,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23015": {
+            "path": "/lightcone/23015.png",
+            "hash": "f0cbba7f745998ae2588ef234e15f254",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 426102,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21029": {
+            "path": "/lightcone/21029.png",
+            "hash": "a1d1bc16a386b8a24a17e1af4124ef71",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 402798,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21035": {
+            "path": "/lightcone/21035.png",
+            "hash": "12b4b85b7d6e00e4e6ec50c6b22afc45",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 389607,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21019": {
+            "path": "/lightcone/21019.png",
+            "hash": "3f8d55236dd78291ea5928246c596acf",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 409526,
+            "update": "2024-08-01 15:17:28"
+        },
+        "24000": {
+            "path": "/lightcone/24000.png",
+            "hash": "026e0f19f03e91651dad705fe9719786",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 444052,
+            "update": "2024-08-01 15:17:28"
+        },
+        "22002": {
+            "path": "/lightcone/22002.png",
+            "hash": "9c63f725189b35869bbe8e5414cd6040",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 389881,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20001": {
+            "path": "/lightcone/20001.png",
+            "hash": "d83f972c13dfb1bbc05c43b8972aa9ba",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 385433,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23018": {
+            "path": "/lightcone/23018.png",
+            "hash": "5304693ca8b2505e1294f44b50da271a",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 415184,
+            "update": "2024-08-01 15:17:28"
+        },
+        "22001": {
+            "path": "/lightcone/22001.png",
+            "hash": "057d0d3194853b7affddc5b17f9d7b54",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 377993,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20010": {
+            "path": "/lightcone/20010.png",
+            "hash": "a4225d4e265b4f689b677d4b0fb16e2c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 372108,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21002": {
+            "path": "/lightcone/21002.png",
+            "hash": "0c42b4470f33a85c5d16a89bfa28015d",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 382487,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21004": {
+            "path": "/lightcone/21004.png",
+            "hash": "d1346b5bf62b99fea8bd7c6f28c1f2af",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 397417,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23024": {
+            "path": "/lightcone/23024.png",
+            "hash": "7d3941c69f874cc6dd65e3a6637bacf4",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 453872,
+            "update": "2024-08-01 15:17:28"
+        },
+        "24001": {
+            "path": "/lightcone/24001.png",
+            "hash": "7ce49cff4c87b4e27746e6347bddec36",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 374700,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23027": {
+            "path": "/lightcone/23027.png",
+            "hash": "6cc691881adc71c086443dd9a988d206",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 419024,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20014": {
+            "path": "/lightcone/20014.png",
+            "hash": "9bbe6388bd740345b61cd292ea21b8de",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 404686,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23012": {
+            "path": "/lightcone/23012.png",
+            "hash": "7b6d481e5e8d178027f071c0bcf2de3c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 393331,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20008": {
+            "path": "/lightcone/20008.png",
+            "hash": "249d6573786f6c196fc28bc17d5f7742",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 368182,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23004": {
+            "path": "/lightcone/23004.png",
+            "hash": "d06212e5fc853801eb481ba1adab5558",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 401212,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21038": {
+            "path": "/lightcone/21038.png",
+            "hash": "4ddc74852e07f15ae63897a77a22d326",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 419476,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23005": {
+            "path": "/lightcone/23005.png",
+            "hash": "64438527c62175d0669538212b650ce0",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 420480,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23009": {
+            "path": "/lightcone/23009.png",
+            "hash": "aaca2183eb4b4c967f4c87cbacc4c9af",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 407676,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20000": {
+            "path": "/lightcone/20000.png",
+            "hash": "e534cfd6774dcb36e229539034eab537",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 359776,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21036": {
+            "path": "/lightcone/21036.png",
+            "hash": "9bf5b72b038868627d0276246fb8ad1d",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 414033,
+            "update": "2024-08-01 15:17:28"
+        },
+        "24002": {
+            "path": "/lightcone/24002.png",
+            "hash": "28a975f6c1ef0d5cce9fbe15e393bf62",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 448997,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23001": {
+            "path": "/lightcone/23001.png",
+            "hash": "6b8a253795d79d36332cf43d9702e58c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 395938,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21044": {
+            "path": "/lightcone/21044.png",
+            "hash": "3ad16645ec5de623cbe3a157022f7408",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 393926,
+            "update": "2024-08-01 15:17:28"
+        },
+        "20004": {
+            "path": "/lightcone/20004.png",
+            "hash": "c5c48596fd2a14172de1f98bb8d5d955",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 430076,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21016": {
+            "path": "/lightcone/21016.png",
+            "hash": "fc546a5581eb0d8e32983239f6959dd0",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 416916,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23016": {
+            "path": "/lightcone/23016.png",
+            "hash": "68772e93d7573829f2932f18afb50e7e",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 411667,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21020": {
+            "path": "/lightcone/21020.png",
+            "hash": "f8e18dfc0b3b28df1d4a6393d2228547",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 403984,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21014": {
+            "path": "/lightcone/21014.png",
+            "hash": "ab3f970a7891e2b96781de7161ab1e16",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 400474,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23011": {
+            "path": "/lightcone/23011.png",
+            "hash": "942f5528d6469db5e99dca87da43ed32",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 418518,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23019": {
+            "path": "/lightcone/23019.png",
+            "hash": "51f44f1f062def5a52190ca8d43e1c32",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 427174,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23026": {
+            "path": "/lightcone/23026.png",
+            "hash": "b84915086c4b32e33808f349b0b0203c",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 436594,
+            "update": "2024-08-01 15:17:28"
         },
         "20019": {
             "path": "/lightcone/20019.png",
@@ -2245,486 +1667,1064 @@
             "width": 2000,
             "height": 1080,
             "size": 429034,
-            "update": "2024-07-14 18:10:01"
+            "update": "2024-08-01 15:17:28"
+        },
+        "23000": {
+            "path": "/lightcone/23000.png",
+            "hash": "9679efd311509c806b848f3d09455bc9",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 399106,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21043": {
+            "path": "/lightcone/21043.png",
+            "hash": "568e7ae9ac8d52138e6429c816b0b635",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 412274,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21007": {
+            "path": "/lightcone/21007.png",
+            "hash": "027c4cd9c289e233e64ef5dc54efd587",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 381272,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21037": {
+            "path": "/lightcone/21037.png",
+            "hash": "972b26b7d2d54d49a2343d8d252b3bb1",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 394066,
+            "update": "2024-08-01 15:17:28"
+        },
+        "23021": {
+            "path": "/lightcone/23021.png",
+            "hash": "c5cd25759ddd33bb6148b7670d0f78fe",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 412094,
+            "update": "2024-08-01 15:17:28"
+        },
+        "21003": {
+            "path": "/lightcone/21003.png",
+            "hash": "5864df28a5f944fd399270f9906b1122",
+            "ext": "png",
+            "width": 2000,
+            "height": 1080,
+            "size": 386268,
+            "update": "2024-08-01 15:17:28"
         }
     },
-    "guide for role": {
-        "1306": {
-            "path": "/guide for role/1306.png",
-            "hash": "4e2379d58022d5f8cc5867af28d57e72",
+    "enemy": {
+        "AED-SEG1": {
+            "path": "/enemy/AED-SEG1.png",
+            "hash": "424b1f4f7529e3ea0d523138e1cdccde",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2039811,
-            "update": "2024-07-14 18:10:01"
+            "width": 3328,
+            "height": 1280,
+            "size": 1191554,
+            "update": "2024-08-01 15:17:28"
         },
-        "8001": {
-            "path": "/guide for role/8001.png",
-            "hash": "df6d245dd868c934b84dae883c62b11e",
+        "CKLYQC-SEG1": {
+            "path": "/enemy/CKLYQC-SEG1.png",
+            "hash": "dc6c73eb1e8ab406b5173d287b5a12dd",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2042947,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 913066,
+            "update": "2024-08-01 15:17:28"
         },
-        "1201": {
-            "path": "/guide for role/1201.png",
-            "hash": "a7e752ba1d07ca37f558c0e110f3b855",
+        "SPB-SEG1": {
+            "path": "/enemy/SPB-SEG1.png",
+            "hash": "4e6396f10e5e7420dc2809cfb8fe3cc3",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2214986,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 936533,
+            "update": "2024-08-01 15:17:28"
         },
-        "1309": {
-            "path": "/guide for role/1309.png",
-            "hash": "e4765e77e337a6c418f25712ca598db5",
+        "FP-SEG1": {
+            "path": "/enemy/FP-SEG1.png",
+            "hash": "b0150b6e9e406c9871c851f8dabbb2d7",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2064223,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 695129,
+            "update": "2024-08-01 15:17:28"
         },
-        "1307": {
-            "path": "/guide for role/1307.png",
-            "hash": "dadf2eac1293cb765160541f29e93fe0",
+        "IOSB-SEG1": {
+            "path": "/enemy/IOSB-SEG1.png",
+            "hash": "edc5aee647df22947f14c83ac8d0a2c0",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2123350,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 682683,
+            "update": "2024-08-01 15:17:28"
         },
-        "8005": {
-            "path": "/guide for role/8005.png",
-            "hash": "447fc7d0f5bb133a2ac52b1a3b150bae",
+        "TA-SEG1": {
+            "path": "/enemy/TA-SEG1.png",
+            "hash": "cb85c1633be7fd7f1db35277b895a3b7",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2077015,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 597139,
+            "update": "2024-08-01 15:17:28"
         },
-        "1207": {
-            "path": "/guide for role/1207.png",
-            "hash": "e9a8275b41bb6d9c7f41d906163a35a6",
+        "GS-SEG1": {
+            "path": "/enemy/GS-SEG1.png",
+            "hash": "b4e767ffaf165a3d0d8080a18b84c823",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2063727,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 885296,
+            "update": "2024-08-01 15:17:28"
         },
-        "1213": {
-            "path": "/guide for role/1213.png",
-            "hash": "cb130fbf4157741a048823787adab529",
+        "BRY-SEG1": {
+            "path": "/enemy/BRY-SEG1.png",
+            "hash": "1a8adbc6ff76427904d01585ea0cf4d2",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2066487,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 541585,
+            "update": "2024-08-01 15:17:28"
         },
-        "1008": {
-            "path": "/guide for role/1008.png",
-            "hash": "3e3630845bfded33f9fef311da4e087e",
+        "DSMSS-SEG1": {
+            "path": "/enemy/DSMSS-SEG1.png",
+            "hash": "a9c9461ecfd69d577f392f479e26b86d",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2037237,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 663176,
+            "update": "2024-08-01 15:17:28"
         },
-        "1108": {
-            "path": "/guide for role/1108.png",
-            "hash": "d3eb69e494d893e58835302631f20a8c",
+        "ATDC-SEG1": {
+            "path": "/enemy/ATDC-SEG1.png",
+            "hash": "7139178c0dba21b910f3fa5867ed7d58",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2101135,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 762335,
+            "update": "2024-08-01 15:17:28"
         },
-        "1112": {
-            "path": "/guide for role/1112.png",
-            "hash": "47c260c18d8f1ea1204f4f6a9505873d",
+        "DDB-SEG1": {
+            "path": "/enemy/DDB-SEG1.png",
+            "hash": "866b4b4cf9a7b5063a2ee2d9ac035362",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2051831,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1440,
+            "size": 1203523,
+            "update": "2024-08-01 15:17:28"
         },
-        "1210": {
-            "path": "/guide for role/1210.png",
-            "hash": "d0cba39f470c15d8164bdaf9c5a930ef",
+        "CKLYQ-SEG1": {
+            "path": "/enemy/CKLYQ-SEG1.png",
+            "hash": "e9c182eb482561887895e12706cab469",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2013758,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 877801,
+            "update": "2024-08-01 15:17:28"
         },
-        "1214": {
-            "path": "/guide for role/1214.png",
-            "hash": "c5bcda689b40fd3d0765a730d3103a0a",
+        "IOS-SEG1": {
+            "path": "/enemy/IOS-SEG1.png",
+            "hash": "e4ea72d7b5ad0fed94e899d763a1f4ea",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2093480,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 669977,
+            "update": "2024-08-01 15:17:28"
         },
-        "1105": {
-            "path": "/guide for role/1105.png",
-            "hash": "5a6b637efafe84611b9fc51f5958fc56",
+        "KFKC-SEG1": {
+            "path": "/enemy/KFKC-SEG1.png",
+            "hash": "b8862e07f79d132bd9995880f424c7ed",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2122471,
-            "update": "2024-07-14 18:10:01"
+            "width": 2560,
+            "height": 1280,
+            "size": 907729,
+            "update": "2024-08-01 15:17:28"
         },
-        "1103": {
-            "path": "/guide for role/1103.png",
-            "hash": "4ae2d3e20c62a53a76aa7a1a2e47eebe",
+        "ARAUC-SEG1": {
+            "path": "/enemy/ARAUC-SEG1.png",
+            "hash": "2b19f1cb51c4c398affbde44a7084f71",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2072902,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 566203,
+            "update": "2024-08-01 15:17:28"
         },
-        "1314": {
-            "path": "/guide for role/1314.png",
-            "hash": "1b098941744218fd2c6ec21b43024273",
+        "SMLB-SEG1": {
+            "path": "/enemy/SMLB-SEG1.png",
+            "hash": "9c9d43ad7c9b9dced452a944f5f94cab",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2076623,
-            "update": "2024-07-14 18:10:01"
+            "width": 1792,
+            "height": 1280,
+            "size": 621984,
+            "update": "2024-08-01 15:17:28"
         },
+        "BRYC-SEG1": {
+            "path": "/enemy/BRYC-SEG1.png",
+            "hash": "44cb96b0fb1f765bd23a3066a8cf37f4",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 551764,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SP-SEG1": {
+            "path": "/enemy/SP-SEG1.png",
+            "hash": "6da5861953fa41d214feb2c51217917b",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 668603,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SSTL-SEG1": {
+            "path": "/enemy/SSTL-SEG1.png",
+            "hash": "ccaf0d50e698d8961ac61f4a8f6b3284",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 832653,
+            "update": "2024-08-01 15:17:28"
+        },
+        "TAB-SEG1": {
+            "path": "/enemy/TAB-SEG1.png",
+            "hash": "2eb2430568dbf4e1b7a9913ad3d70259",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 613484,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AMGKB-SEG1": {
+            "path": "/enemy/AMGKB-SEG1.png",
+            "hash": "4755f2d25a9ad7e5558140c7660d35c0",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 629790,
+            "update": "2024-08-01 15:17:28"
+        },
+        "PTU-SEG1": {
+            "path": "/enemy/PTU-SEG1.png",
+            "hash": "2d10a77d86095eda12d57bf90d6ecaec",
+            "ext": "png",
+            "width": 3328,
+            "height": 1280,
+            "size": 1353703,
+            "update": "2024-08-01 15:17:28"
+        },
+        "VRT-SEG1": {
+            "path": "/enemy/VRT-SEG1.png",
+            "hash": "7f0fb5e8add0229420c39975a61ae17a",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 713675,
+            "update": "2024-08-01 15:17:28"
+        },
+        "GPD-SEG1": {
+            "path": "/enemy/GPD-SEG1.png",
+            "hash": "1fddaa9994ad04d12bd995e9aee5116c",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 665279,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AMSE-SEG1": {
+            "path": "/enemy/AMSE-SEG1.png",
+            "hash": "aaeba74a0aedea69c86b3401dba10b6e",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 588578,
+            "update": "2024-08-01 15:17:28"
+        },
+        "BOS-SEG1": {
+            "path": "/enemy/BOS-SEG1.png",
+            "hash": "43da87bf9a91e681b73faaa0084cc597",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 648669,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AMSEB-SEG1": {
+            "path": "/enemy/AMSEB-SEG1.png",
+            "hash": "9d6a3183741b80556914706bfe93818b",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 742390,
+            "update": "2024-08-01 15:17:28"
+        },
+        "DS-SEG1": {
+            "path": "/enemy/DS-SEG1.png",
+            "hash": "08c348fb23159c0c98868c357fe6d682",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 626799,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AG-SEG1": {
+            "path": "/enemy/AG-SEG1.png",
+            "hash": "9c383b833847f6652d0d6d660ae807ad",
+            "ext": "png",
+            "width": 3328,
+            "height": 1280,
+            "size": 961093,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ATD-SEG1": {
+            "path": "/enemy/ATD-SEG1.png",
+            "hash": "b961c784526a5876833654a1825787de",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 579421,
+            "update": "2024-08-01 15:17:28"
+        },
+        "CCL-SEG1": {
+            "path": "/enemy/CCL-SEG1.png",
+            "hash": "643d46c720e4bdaf9e830892b0b34b7b",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 890850,
+            "update": "2024-08-01 15:17:28"
+        },
+        "CCLC-SEG1": {
+            "path": "/enemy/CCLC-SEG1.png",
+            "hash": "be5b2b292b4c3a2a3cce8bf11b708a0f",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 933596,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ASMA-SEG1": {
+            "path": "/enemy/ASMA-SEG1.png",
+            "hash": "9b631e1439699acb3eec24ecd1300d25",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 717852,
+            "update": "2024-08-01 15:17:28"
+        },
+        "VRTB-SEG1": {
+            "path": "/enemy/VRTB-SEG1.png",
+            "hash": "94cfc39ec90f4c526fe2098e90917ffd",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 714015,
+            "update": "2024-08-01 15:17:28"
+        },
+        "DSB-SEG1": {
+            "path": "/enemy/DSB-SEG1.png",
+            "hash": "5b09a9e8b70f2b6ccd9c132b3280ceac",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 616676,
+            "update": "2024-08-01 15:17:28"
+        },
+        "BOSB-SEG1": {
+            "path": "/enemy/BOSB-SEG1.png",
+            "hash": "a8336c77bd4a7d950bf31cd543ea975a",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 918654,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ATGC-SEG1": {
+            "path": "/enemy/ATGC-SEG1.png",
+            "hash": "3f622075bfac633e237252f1f7ea0842",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 658944,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ATG-SEG1": {
+            "path": "/enemy/ATG-SEG1.png",
+            "hash": "0aa8e0eb96d3e1b45a6b6a78e7745385",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 624314,
+            "update": "2024-08-01 15:17:28"
+        },
+        "GSB-SEG1": {
+            "path": "/enemy/GSB-SEG1.png",
+            "hash": "c7370b5ebd6db9da05f0a2f91391e977",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 897234,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SVGC-SEG1": {
+            "path": "/enemy/SVGC-SEG1.png",
+            "hash": "c1448172f2921e12c0bc8ec49f1fab97",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 772068,
+            "update": "2024-08-01 15:17:28"
+        },
+        "CCMD-SEG1": {
+            "path": "/enemy/CCMD-SEG1.png",
+            "hash": "40761adb5a7f37b1cca4b315251e0935",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 1005683,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AMGK-SEG1": {
+            "path": "/enemy/AMGK-SEG1.png",
+            "hash": "91db41586ad48eef85ea392ee9a38cc2",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 629935,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SVG-SEG1": {
+            "path": "/enemy/SVG-SEG1.png",
+            "hash": "bc3719e0afd42413a264b4aa70167d47",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 725988,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ATDB-SEG1": {
+            "path": "/enemy/ATDB-SEG1.png",
+            "hash": "5295a7e951a1f83843d729d9422d4c10",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 561548,
+            "update": "2024-08-01 15:17:28"
+        },
+        "KFK-SEG1": {
+            "path": "/enemy/KFK-SEG1.png",
+            "hash": "4c623555c0101c6239d0667f297a7819",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 858610,
+            "update": "2024-08-01 15:17:28"
+        },
+        "GPDC-SEG1": {
+            "path": "/enemy/GPDC-SEG1.png",
+            "hash": "c4388707d03f07d177f210fe8dc017ec",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 939420,
+            "update": "2024-08-01 15:17:28"
+        },
+        "DSMSSB-SEG1": {
+            "path": "/enemy/DSMSSB-SEG1.png",
+            "hash": "f4d3e351e9cda56a02a956f23fc58bab",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 677535,
+            "update": "2024-08-01 15:17:28"
+        },
+        "FPB-SEG1": {
+            "path": "/enemy/FPB-SEG1.png",
+            "hash": "2aafede2637466d3749c58f5cb686c07",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 955771,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SSTLB-SEG1": {
+            "path": "/enemy/SSTLB-SEG1.png",
+            "hash": "5ae1ce278473fdefee290cc9db42bc69",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 841326,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ASMAB-SEG1": {
+            "path": "/enemy/ASMAB-SEG1.png",
+            "hash": "f4ec21364f4edb4e45b7b4d73e20e01b",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 716745,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SML-SEG1": {
+            "path": "/enemy/SML-SEG1.png",
+            "hash": "46dd71fe4d263ad4aaa2608242722715",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 619110,
+            "update": "2024-08-01 15:17:28"
+        },
+        "ATGB-SEG1": {
+            "path": "/enemy/ATGB-SEG1.png",
+            "hash": "1a5e74cfd9d171b1ba14fb462bcbc5ba",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 629202,
+            "update": "2024-08-01 15:17:28"
+        },
+        "STBB-SEG1": {
+            "path": "/enemy/STBB-SEG1.png",
+            "hash": "b3a9e2d6dead148adf45c1b4663e765c",
+            "ext": "png",
+            "width": 2560,
+            "height": 1280,
+            "size": 796832,
+            "update": "2024-08-01 15:17:28"
+        },
+        "TSTS-SEG1": {
+            "path": "/enemy/TSTS-SEG1.png",
+            "hash": "daca3529e8da30ea94495c5664beffab",
+            "ext": "png",
+            "width": 3328,
+            "height": 1280,
+            "size": 1154298,
+            "update": "2024-08-01 15:17:28"
+        },
+        "TSTSC-SEG1": {
+            "path": "/enemy/TSTSC-SEG1.png",
+            "hash": "041f36efa967db3f552fda915059bed6",
+            "ext": "png",
+            "width": 3328,
+            "height": 1280,
+            "size": 1183156,
+            "update": "2024-08-01 15:17:28"
+        },
+        "SMLC-SEG1": {
+            "path": "/enemy/SMLC-SEG1.png",
+            "hash": "6679a63be8f368afd2e57d44be2c3656",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 589281,
+            "update": "2024-08-01 15:17:28"
+        },
+        "AEDC-SEG1": {
+            "path": "/enemy/AEDC-SEG1.png",
+            "hash": "b1c10d59de3ff7da2fe6bfa5dc5121ca",
+            "ext": "png",
+            "width": 3328,
+            "height": 1280,
+            "size": 1236468,
+            "update": "2024-08-01 15:17:28"
+        },
+        "STB-SEG1": {
+            "path": "/enemy/STB-SEG1.png",
+            "hash": "40eee1cce69b62a1ea1e82eca8c4f1cf",
+            "ext": "png",
+            "width": 1792,
+            "height": 1280,
+            "size": 594024,
+            "update": "2024-08-01 15:17:28"
+        }
+    },
+    "role": {
         "1006": {
-            "path": "/guide for role/1006.png",
-            "hash": "b8c7dee9e86b251a7bfa535c9a70f395",
+            "path": "/role/1006.png",
+            "hash": "75e558789dd004bc58e957023a273688",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2067757,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1206": {
-            "path": "/guide for role/1206.png",
-            "hash": "4d8b669affbcac10423115910f13418a",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2079141,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1109": {
-            "path": "/guide for role/1109.png",
-            "hash": "225aabf397e4d74f8e35f8152a71cfcd",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1817227,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1104": {
-            "path": "/guide for role/1104.png",
-            "hash": "f6c3055a1354cda5da39a7a45d9a686c",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2054788,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1315": {
-            "path": "/guide for role/1315.png",
-            "hash": "c6b2f39c6aa8654a58693e9d7f28a8c7",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2269546,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1211": {
-            "path": "/guide for role/1211.png",
-            "hash": "886afb8a7ca63f7d3f9f32099420ac52",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2045294,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1302": {
-            "path": "/guide for role/1302.png",
-            "hash": "cb14ad23645a20ca35d483bf917cb83c",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2090003,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1303": {
-            "path": "/guide for role/1303.png",
-            "hash": "a0e1d0a5550ea2b1a646786283747bf9",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1991296,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1209": {
-            "path": "/guide for role/1209.png",
-            "hash": "8b9b6735c71fb5f69ac300782180d4ed",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2084862,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1106": {
-            "path": "/guide for role/1106.png",
-            "hash": "cb4d326f1823b68fc4bb8af3ab2176b4",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2063600,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1013": {
-            "path": "/guide for role/1013.png",
-            "hash": "fccb017739901c0719b8bddf1c12d92d",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1996144,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1111": {
-            "path": "/guide for role/1111.png",
-            "hash": "f9a10b60098902d554233fc768d80892",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2198461,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1001": {
-            "path": "/guide for role/1001.png",
-            "hash": "ea3b6b08e126d9f563e9dad404759473",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2038199,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1107": {
-            "path": "/guide for role/1107.png",
-            "hash": "99322c0c73c5b55374009809c8ec3b2a",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2040262,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2590,
+            "size": 697638,
+            "update": "2024-08-01 15:17:28"
         },
         "1312": {
-            "path": "/guide for role/1312.png",
-            "hash": "05b205d315732d73fc58596f0362b8f3",
+            "path": "/role/1312.png",
+            "hash": "cd3b86c214789590eebb6cebd3ca1649",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1954712,
-            "update": "2024-07-14 18:10:01"
-        },
-        "8003": {
-            "path": "/guide for role/8003.png",
-            "hash": "15df11b93b307583b89f731feac6b051",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1798080,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1110": {
-            "path": "/guide for role/1110.png",
-            "hash": "33d6a74e65590f897c82a1a02c128c4d",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1967479,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1215": {
-            "path": "/guide for role/1215.png",
-            "hash": "8d7ed78a8fcb0452319ff8cd9c99fb21",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2026505,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1009": {
-            "path": "/guide for role/1009.png",
-            "hash": "10ce0f1c2196f95895e1ec4cfae435ff",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2119794,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1202": {
-            "path": "/guide for role/1202.png",
-            "hash": "9223d01208b1b91063ba9a20f79dbbff",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2103198,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1217": {
-            "path": "/guide for role/1217.png",
-            "hash": "3026c9dceca754e479f28c3472e27c47",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2078711,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1305": {
-            "path": "/guide for role/1305.png",
-            "hash": "ea6c5d7034105d27e8e03b9aed47e52c",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2092159,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1004": {
-            "path": "/guide for role/1004.png",
-            "hash": "c2d78963c266fba5d7af0592125f4dbb",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2135645,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1102": {
-            "path": "/guide for role/1102.png",
-            "hash": "f9441095b106307d9ebaf9e7c545c49b",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2061473,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1101": {
-            "path": "/guide for role/1101.png",
-            "hash": "db540a8f9fc78779e117aa530cf7c104",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2172461,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2500,
+            "size": 701417,
+            "update": "2024-08-01 15:17:28"
         },
         "1304": {
-            "path": "/guide for role/1304.png",
-            "hash": "5051a4abe138b032533954c2dbd8e660",
+            "path": "/role/1304.png",
+            "hash": "c66d0dcf4afbf12bcd176280167eb4ad",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2068874,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1203": {
-            "path": "/guide for role/1203.png",
-            "hash": "02f7b1b455f987742f42c3c37cad883c",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2207135,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1301": {
-            "path": "/guide for role/1301.png",
-            "hash": "f6cd1db0d1f5731def9e29419382634f",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2082120,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1205": {
-            "path": "/guide for role/1205.png",
-            "hash": "432abb83f93bdabc58ac4d478939ddd1",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2039996,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1308": {
-            "path": "/guide for role/1308.png",
-            "hash": "32b83a69dfc6744f2a44692373a650d1",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2098093,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1002": {
-            "path": "/guide for role/1002.png",
-            "hash": "7cd4143c30daba2e9114d58ee00976e8",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 1834572,
-            "update": "2024-07-14 18:10:01"
-        },
-        "1005": {
-            "path": "/guide for role/1005.png",
-            "hash": "0faf7863017ba13b80004b2ff9b89069",
-            "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2032559,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2839,
+            "size": 736694,
+            "update": "2024-08-01 15:17:28"
         },
         "1208": {
-            "path": "/guide for role/1208.png",
-            "hash": "0fafc3ecfb8d48fcc49aee1528771a96",
+            "path": "/role/1208.png",
+            "hash": "7f7002938f43ebe80664c2a5a877e284",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2142706,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2590,
+            "size": 748461,
+            "update": "2024-08-01 15:17:28"
         },
-        "1212": {
-            "path": "/guide for role/1212.png",
-            "hash": "d2e62feaa3e7957b17f010b96920272b",
+        "1217": {
+            "path": "/role/1217.png",
+            "hash": "16639dc177d5fabe342783b2ce4b642a",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2178603,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2363,
+            "size": 663855,
+            "update": "2024-08-01 15:17:28"
         },
-        "1003": {
-            "path": "/guide for role/1003.png",
-            "hash": "64253cffed0e2fff26ae9efb88872fcf",
+        "1214": {
+            "path": "/role/1214.png",
+            "hash": "8459f00f0d106519744a1b39075fccfd",
             "ext": "png",
-            "width": 3840,
-            "height": 2160,
-            "size": 2165542,
-            "update": "2024-07-14 18:10:01"
+            "width": 1920,
+            "height": 2406,
+            "size": 672381,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1210": {
+            "path": "/role/1210.png",
+            "hash": "5d7c2f9d00d7009c20bcf895f65df4d1",
+            "ext": "png",
+            "width": 1920,
+            "height": 2260,
+            "size": 640505,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1103": {
+            "path": "/role/1103.png",
+            "hash": "8096cb751d165b1d0acd6507a3e05254",
+            "ext": "png",
+            "width": 1920,
+            "height": 2241,
+            "size": 714117,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1002": {
+            "path": "/role/1002.png",
+            "hash": "3e12b557bcaf9bc0002d741fd2741f33",
+            "ext": "png",
+            "width": 1920,
+            "height": 2049,
+            "size": 621927,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1207": {
+            "path": "/role/1207.png",
+            "hash": "c90032aaae890be520d822d1b1967be8",
+            "ext": "png",
+            "width": 1920,
+            "height": 2229,
+            "size": 673334,
+            "update": "2024-08-01 15:17:28"
         },
         "1204": {
-            "path": "/guide for role/1204.png",
-            "hash": "c8d33816f0e45d239593e356065b10cb",
+            "path": "/role/1204.png",
+            "hash": "53332885def6a4b3513c47778e20713d",
             "ext": "png",
-            "width": 3840,
+            "width": 1920,
+            "height": 2241,
+            "size": 718647,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1209": {
+            "path": "/role/1209.png",
+            "hash": "345c175ae1f39aab863c71b24cfa49ee",
+            "ext": "png",
+            "width": 1920,
+            "height": 2368,
+            "size": 708431,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1303": {
+            "path": "/role/1303.png",
+            "hash": "c7dab979ba51727f4df5cf15f963c8c5",
+            "ext": "png",
+            "width": 1920,
+            "height": 2838,
+            "size": 756772,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1013": {
+            "path": "/role/1013.png",
+            "hash": "80fcec6ae0cd82f723d715d60be057cb",
+            "ext": "png",
+            "width": 1920,
+            "height": 1945,
+            "size": 591613,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1008": {
+            "path": "/role/1008.png",
+            "hash": "782dfffcb951723df7a4bc8c86e86649",
+            "ext": "png",
+            "width": 1920,
+            "height": 2138,
+            "size": 616458,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1105": {
+            "path": "/role/1105.png",
+            "hash": "6eaa7ff041a6b716f24f703a22f4216a",
+            "ext": "png",
+            "width": 1920,
             "height": 2160,
-            "size": 2170450,
-            "update": "2024-07-14 18:10:01"
+            "size": 673009,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1211": {
+            "path": "/role/1211.png",
+            "hash": "23e963f172c86c84e599a58e0ab048b6",
+            "ext": "png",
+            "width": 1920,
+            "height": 2241,
+            "size": 690780,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1003": {
+            "path": "/role/1003.png",
+            "hash": "933c9b5d04a8ffe1673ec6bad6c6db0a",
+            "ext": "png",
+            "width": 1920,
+            "height": 2365,
+            "size": 689327,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1309": {
+            "path": "/role/1309.png",
+            "hash": "6f8dd0cc08fddb28ab1f0c6a9e8e81f5",
+            "ext": "png",
+            "width": 1920,
+            "height": 2456,
+            "size": 649049,
+            "update": "2024-08-01 15:17:28"
+        },
+        "8005": {
+            "path": "/role/8005.png",
+            "hash": "6036d4dca5ab2adb4f80f2a709ed07b9",
+            "ext": "png",
+            "width": 1920,
+            "height": 2100,
+            "size": 591507,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1108": {
+            "path": "/role/1108.png",
+            "hash": "059d98eb4ea77995761794adbf94d5a7",
+            "ext": "png",
+            "width": 1920,
+            "height": 2173,
+            "size": 662468,
+            "update": "2024-08-01 15:17:28"
+        },
+        "8001": {
+            "path": "/role/8001.png",
+            "hash": "f6fa5c0371872d14dc055764ec5f4c73",
+            "ext": "png",
+            "width": 1920,
+            "height": 2170,
+            "size": 635569,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1106": {
+            "path": "/role/1106.png",
+            "hash": "d3b0374d4c6fc9abc6883a82c1e28445",
+            "ext": "png",
+            "width": 1920,
+            "height": 2084,
+            "size": 662883,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1110": {
+            "path": "/role/1110.png",
+            "hash": "9f21f07d50022fea9a60012d99c16aff",
+            "ext": "png",
+            "width": 1920,
+            "height": 2163,
+            "size": 589614,
+            "update": "2024-08-01 15:17:28"
+        },
+        "8003": {
+            "path": "/role/8003.png",
+            "hash": "ab6c19df9c1ab25e9fe00dd52236e56b",
+            "ext": "png",
+            "width": 1920,
+            "height": 2500,
+            "size": 722522,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1302": {
+            "path": "/role/1302.png",
+            "hash": "54215545546a2b26574d6e4b195615ec",
+            "ext": "png",
+            "width": 1920,
+            "height": 2234,
+            "size": 665915,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1206": {
+            "path": "/role/1206.png",
+            "hash": "62d7e4497d6edc6e56563c740fea2213",
+            "ext": "png",
+            "width": 1920,
+            "height": 2234,
+            "size": 664198,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1004": {
+            "path": "/role/1004.png",
+            "hash": "f762000dbe218aecf62048fcdd7cf656",
+            "ext": "png",
+            "width": 1920,
+            "height": 2229,
+            "size": 682036,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1308": {
+            "path": "/role/1308.png",
+            "hash": "1715e13f20e4d551fd558083f3ace98e",
+            "ext": "png",
+            "width": 1920,
+            "height": 3396,
+            "size": 762656,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1202": {
+            "path": "/role/1202.png",
+            "hash": "87a57aba203483c243c78457e626d159",
+            "ext": "png",
+            "width": 1920,
+            "height": 2115,
+            "size": 634115,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1314": {
+            "path": "/role/1314.png",
+            "hash": "76e367976ddd83cdb350d4267ba4bba1",
+            "ext": "png",
+            "width": 1920,
+            "height": 2782,
+            "size": 713881,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1102": {
+            "path": "/role/1102.png",
+            "hash": "e8ead791432bb4fd6cea3cea53518b96",
+            "ext": "png",
+            "width": 1920,
+            "height": 2060,
+            "size": 634995,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1109": {
+            "path": "/role/1109.png",
+            "hash": "5762709b0af16b83ba73f6d2df917313",
+            "ext": "png",
+            "width": 1920,
+            "height": 2590,
+            "size": 700604,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1009": {
+            "path": "/role/1009.png",
+            "hash": "9ee3d18d1ff70a4d7eea7174aaea8e9a",
+            "ext": "png",
+            "width": 1920,
+            "height": 2228,
+            "size": 656341,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1212": {
+            "path": "/role/1212.png",
+            "hash": "07c8bd0c9315b0467bcb0ad663fdf1ec",
+            "ext": "png",
+            "width": 1920,
+            "height": 2838,
+            "size": 740905,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1203": {
+            "path": "/role/1203.png",
+            "hash": "be8232faf547050b2ec88b082d95a9e8",
+            "ext": "png",
+            "width": 1920,
+            "height": 2320,
+            "size": 707624,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1307": {
+            "path": "/role/1307.png",
+            "hash": "04e1fd5e7ea327a6a5254de3b8eb0c13",
+            "ext": "png",
+            "width": 1920,
+            "height": 3313,
+            "size": 855114,
+            "update": "2024-08-01 15:17:28"
         },
         "1310": {
-            "path": "/guide for role/1310.png",
-            "hash": "a66aa96d4830169e8b5eac0b4a04fef4",
+            "path": "/role/1310.png",
+            "hash": "15f8cac15414d351757fa61c59e13ec6",
             "ext": "png",
-            "width": 3840,
+            "width": 1920,
+            "height": 3420,
+            "size": 839021,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1111": {
+            "path": "/role/1111.png",
+            "hash": "93d351afa9520f7efb30f66bda8caf9f",
+            "ext": "png",
+            "width": 1920,
+            "height": 2600,
+            "size": 726069,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1107": {
+            "path": "/role/1107.png",
+            "hash": "a1dec271a8eb10103a471a1b97f7ca78",
+            "ext": "png",
+            "width": 1920,
+            "height": 2220,
+            "size": 685098,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1001": {
+            "path": "/role/1001.png",
+            "hash": "e3b8aaec3525e2e1d9dca7c93644c11b",
+            "ext": "png",
+            "width": 1920,
+            "height": 2331,
+            "size": 624362,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1005": {
+            "path": "/role/1005.png",
+            "hash": "a893262a67ed04d3fc61389cc090fa01",
+            "ext": "png",
+            "width": 1920,
+            "height": 2391,
+            "size": 710739,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1104": {
+            "path": "/role/1104.png",
+            "hash": "7ef09cabf8b46510e388d7ecea5fc4b1",
+            "ext": "png",
+            "width": 1920,
             "height": 2160,
-            "size": 2120206,
-            "update": "2024-07-14 18:10:01"
+            "size": 616793,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1101": {
+            "path": "/role/1101.png",
+            "hash": "3f2897690925b8e2cdd38384f2584919",
+            "ext": "png",
+            "width": 1920,
+            "height": 2068,
+            "size": 704919,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1112": {
+            "path": "/role/1112.png",
+            "hash": "0d6dc39fae224eba8d698ef2df441c89",
+            "ext": "png",
+            "width": 1920,
+            "height": 2884,
+            "size": 725579,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1306": {
+            "path": "/role/1306.png",
+            "hash": "acdbb26f2201d0530759a6afb1237a94",
+            "ext": "png",
+            "width": 1920,
+            "height": 2163,
+            "size": 685631,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1301": {
+            "path": "/role/1301.png",
+            "hash": "c1dfc9bd551b6b53eb5074bd12236dd2",
+            "ext": "png",
+            "width": 1920,
+            "height": 2220,
+            "size": 664614,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1215": {
+            "path": "/role/1215.png",
+            "hash": "b55fde5cc0ecabe2e5033f33345abffc",
+            "ext": "png",
+            "width": 1920,
+            "height": 2127,
+            "size": 666251,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1213": {
+            "path": "/role/1213.png",
+            "hash": "b47d4404c1e4fb5b50f58775c2d3ce62",
+            "ext": "png",
+            "width": 1920,
+            "height": 3140,
+            "size": 766603,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1305": {
+            "path": "/role/1305.png",
+            "hash": "f76f2b59d7b19e393e79d2d204f01340",
+            "ext": "png",
+            "width": 1920,
+            "height": 2320,
+            "size": 680824,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1315": {
+            "path": "/role/1315.png",
+            "hash": "858e3a620bb55400024251d55caf3205",
+            "ext": "png",
+            "width": 1920,
+            "height": 2890,
+            "size": 812291,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1201": {
+            "path": "/role/1201.png",
+            "hash": "b1c316644ee618e64c8226a2223d582a",
+            "ext": "png",
+            "width": 1920,
+            "height": 2365,
+            "size": 678876,
+            "update": "2024-08-01 15:17:28"
+        },
+        "1205": {
+            "path": "/role/1205.png",
+            "hash": "8bbf461e9be9b28b0ce835e1ffdf346a",
+            "ext": "png",
+            "width": 1920,
+            "height": 3020,
+            "size": 739307,
+            "update": "2024-08-01 15:17:28"
         }
     }
 }
