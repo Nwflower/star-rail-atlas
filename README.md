@@ -29,6 +29,21 @@ Star-Rail-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.c
 
 请注意，本仓库的开源协议为AGPL-3.0，使用本仓库时，请开源您的项目源码。
 
+### 如何维护
+
+由于本人目前在三次元中因为不可抗力暂时无法及时更新，如果你想要自己更新图片，请按照以下方式更新：
+
+#### 增设角色攻略
+
+1. 将图片拷贝到路径`Atlas\star-rail-atlas\guide for role`中后（可以命名为角色名）
+2. 在`Atlas\star-rail-atlas\othername\guide for role.yaml`中配置好角色别名
+3. 在Python环境下运行`Atlas\star-rail-atlas\.github\update_index.py`脚本。如你的系统中未配置Python环境/不想配置Python环境，可以在Github（Gitee不行）上fork本仓库后，将修改后的仓库上传到你fork的私库中，Github工作流将会自动运行上述脚本。
+4. （本段文字仅需阅读）该脚本会遍历`star-rail-atlas`的所有文件并生成文件索引`Atlas\star-rail-atlas\path.json`，Atlas插件不会回复不在该索引内的文件。注意如果你使用的是Github工作流，你应该在工作流跑完之后再将仓库pull到本地以同步变更。当然，如果修改的文件较少，你也可以手动更改索引文件`Atlas\star-rail-atlas\path.json`而不是运行自动脚本。
+
+#### 增设其他图片
+
+原理同上，复制到其他文件夹即可。
+
 ## 支持
 
 如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
