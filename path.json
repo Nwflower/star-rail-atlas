@@ -241,6 +241,13 @@
         "24004": "/lightcone/24004.png",
         "24005": "/lightcone/24005.png"
     },
+    "othername": {
+        "enemy": "/othername/enemy.yaml",
+        "guide for role": "/othername/guide for role.yaml",
+        "lightcone": "/othername/lightcone.yaml",
+        "relic": "/othername/relic.yaml",
+        "role": "/othername/role.yaml"
+    },
     "relic": {
         "101": "/relic/101.png",
         "102": "/relic/102.png",
@@ -262,6 +269,10 @@
         "118": "/relic/118.png",
         "119": "/relic/119.png",
         "120": "/relic/120.png",
+        "121": "/relic/121.png",
+        "122": "/relic/122.png",
+        "123": "/relic/123.png",
+        "124": "/relic/124.png",
         "301": "/relic/301.png",
         "302": "/relic/302.png",
         "303": "/relic/303.png",
@@ -277,7 +288,11 @@
         "313": "/relic/313.png",
         "314": "/relic/314.png",
         "315": "/relic/315.png",
-        "316": "/relic/316.png"
+        "316": "/relic/316.png",
+        "317": "/relic/317.png",
+        "318": "/relic/318.png",
+        "319": "/relic/319.png",
+        "320": "/relic/320.png"
     },
     "role": {
         "1001": "/role/1001.png",
