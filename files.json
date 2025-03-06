@@ -1199,7 +1199,7 @@
             "width": 2000,
             "height": 1080,
             "size": 352409,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "20022": {
             "path": "/lightcone/20022.png",
@@ -1208,7 +1208,7 @@
             "width": 2000,
             "height": 1080,
             "size": 382900,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "21000": {
             "path": "/lightcone/21000.png",
@@ -1658,7 +1658,7 @@
             "width": 2000,
             "height": 1080,
             "size": 398509,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "21051": {
             "path": "/lightcone/21051.png",
@@ -1667,7 +1667,7 @@
             "width": 2000,
             "height": 1080,
             "size": 376436,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "21052": {
             "path": "/lightcone/21052.png",
@@ -1676,7 +1676,7 @@
             "width": 2000,
             "height": 1080,
             "size": 379652,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "22000": {
             "path": "/lightcone/22000.png",
@@ -1973,7 +1973,7 @@
             "width": 2000,
             "height": 1080,
             "size": 490209,
-            "update": "2024-12-23 22:41:09"
+            "update": "2025-03-06 20:49:18"
         },
         "23029": {
             "path": "/lightcone/23029.png",
@@ -1982,7 +1982,7 @@
             "width": 2000,
             "height": 1080,
             "size": 487269,
-            "update": "2024-12-23 22:41:09"
+            "update": "2025-03-06 20:49:18"
         },
         "23030": {
             "path": "/lightcone/23030.png",
@@ -1991,7 +1991,7 @@
             "width": 2000,
             "height": 1080,
             "size": 411041,
-            "update": "2024-12-23 22:41:09"
+            "update": "2025-03-06 20:49:18"
         },
         "23031": {
             "path": "/lightcone/23031.png",
@@ -2045,7 +2045,7 @@
             "width": 2000,
             "height": 1080,
             "size": 415823,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         },
         "23037": {
             "path": "/lightcone/23037.png",
@@ -2126,54 +2126,7 @@
             "width": 2000,
             "height": 1080,
             "size": 410450,
-            "update": "2025-03-05 12:38:59"
-        }
-    },
-    "othername": {
-        "enemy": {
-            "path": "/othername/enemy.yaml",
-            "hash": "c3b50997b1f89a56a9a098660db75144",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 7573,
-            "update": "2023-12-22 22:40:54"
-        },
-        "guide for role": {
-            "path": "/othername/guide for role.yaml",
-            "hash": "3610f70825ed263d85325c30009e7b23",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 4092,
-            "update": "2024-06-21 18:36:31"
-        },
-        "lightcone": {
-            "path": "/othername/lightcone.yaml",
-            "hash": "84613754a809c735a79eef02698d965b",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 14789,
-            "update": "2025-03-05 12:38:59"
-        },
-        "relic": {
-            "path": "/othername/relic.yaml",
-            "hash": "1fff31c26159a8fcb54247ae5fd5dab7",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 5032,
-            "update": "2024-06-21 18:36:31"
-        },
-        "role": {
-            "path": "/othername/role.yaml",
-            "hash": "7db23751b32f893a23673f9d6c171d8e",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 7929,
-            "update": "2025-03-05 12:38:59"
+            "update": "2025-03-06 20:49:18"
         }
     },
     "relic": {
@@ -2364,7 +2317,7 @@
             "width": 2400,
             "height": 900,
             "size": 274809,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "122": {
             "path": "/relic/122.png",
@@ -2373,7 +2326,7 @@
             "width": 2400,
             "height": 900,
             "size": 273796,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "123": {
             "path": "/relic/123.png",
@@ -2382,7 +2335,7 @@
             "width": 2400,
             "height": 900,
             "size": 280657,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "124": {
             "path": "/relic/124.png",
@@ -2391,7 +2344,7 @@
             "width": 2400,
             "height": 900,
             "size": 285154,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "301": {
             "path": "/relic/301.png",
@@ -2544,7 +2497,7 @@
             "width": 2400,
             "height": 900,
             "size": 278410,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "318": {
             "path": "/relic/318.png",
@@ -2553,7 +2506,7 @@
             "width": 2400,
             "height": 900,
             "size": 263989,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "319": {
             "path": "/relic/319.png",
@@ -2562,7 +2515,7 @@
             "width": 2400,
             "height": 900,
             "size": 270097,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         },
         "320": {
             "path": "/relic/320.png",
@@ -2571,7 +2524,7 @@
             "width": 2400,
             "height": 900,
             "size": 271051,
-            "update": "N/A"
+            "update": "2025-03-06 20:49:18"
         }
     },
     "role": {

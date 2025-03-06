@@ -241,13 +241,6 @@
         "24004": "/lightcone/24004.png",
         "24005": "/lightcone/24005.png"
     },
-    "othername": {
-        "enemy": "/othername/enemy.yaml",
-        "guide for role": "/othername/guide for role.yaml",
-        "lightcone": "/othername/lightcone.yaml",
-        "relic": "/othername/relic.yaml",
-        "role": "/othername/role.yaml"
-    },
     "relic": {
         "101": "/relic/101.png",
         "102": "/relic/102.png",
