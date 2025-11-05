@@ -219,6 +219,7 @@
         "21003": "/lightcone/21003.png",
         "23018": "/lightcone/23018.png",
         "21004": "/lightcone/21004.png",
+        "23052": "/lightcone/23052.png",
         "21025": "/lightcone/21025.png",
         "22005": "/lightcone/22005.png",
         "22000": "/lightcone/22000.png",
@@ -266,6 +267,7 @@
     "relic": {
         "320": "/relic/320.png",
         "114": "/relic/114.png",
+        "324": "/relic/324.png",
         "311": "/relic/311.png",
         "306": "/relic/306.png",
         "115": "/relic/115.png",
@@ -287,6 +289,7 @@
         "120": "/relic/120.png",
         "126": "/relic/126.png",
         "108": "/relic/108.png",
+        "323": "/relic/323.png",
         "304": "/relic/304.png",
         "104": "/relic/104.png",
         "303": "/relic/303.png",
