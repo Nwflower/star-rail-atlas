@@ -48,7 +48,7 @@ Star-Rail-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.c
 
 ## 支持
 
-如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
+如果你支持本项目，可以给个star或者[爱发电](https://ifdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
 
 本图鉴目前仅供学习交流使用，素材版权为米哈游所有。
 
